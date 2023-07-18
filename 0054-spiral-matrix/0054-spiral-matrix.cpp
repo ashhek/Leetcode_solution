@@ -1,41 +1,38 @@
 class Solution {
 public:
-   vector<int> spiralOrder(vector<vector<int>> &matrix)
-{
-    int n = matrix.size();
-    int m = matrix[0].size();
-
-    int rr[] = {0, 1, 0, -1};
-    int cc[] = {1, 0, -1, 0};
-    int row = 0;
-    int col = 0;
-
-    vector<vector<int>> visited(n, vector<int>(m, 0));
-    vector<int> ans;
-    visited[0][0] = 1;
-    ans.push_back(matrix[0][0]);
-
-    int index = 0;
-    int count = 1;
-
-    while (count < m * n)
-    {
-        int r = row + rr[index];
-        int c = col + cc[index];
-
-        if (r < n and c < m and r >= 0 and c >= 0 and !visited[r][c])
-        {
-            count++;
-            ans.push_back(matrix[r][c]);
-            visited[r][c] = 1;
-            row = r;
-            col = c;
-        }
-        else
-        {
-            index = (index + 1) % 4;
-        }
+    vector<int> spiralOrder(vector<vector<int>>& matrix) {
+        vector<int> ans;
+        int row = matrix.size()-1, col = matrix[0].size()-1;
+        help(matrix, ans, row, col, 0, 0);
+        return ans;
     }
-    return ans;
-}
+    void help(vector<vector<int>> & matrix, vector<int> &ans, int er, int ec, int sr, int sc){
+        
+        for(int j=sc; j<=ec; j++)
+        ans.push_back(matrix[sr][j]);
+        ++sr;
+
+         if(sc>ec || sr>er) return;
+
+        for(int i=sr; i<=er; i++)
+        ans.push_back(matrix[i][ec]);
+        --ec;
+
+         if(sc>ec || sr>er) return;
+
+        for(int j=ec; j>=sc ; --j)
+        ans.push_back(matrix[er][j]);
+        --er;
+
+        if(sc>ec || sr>er) return;
+
+        for(int i=er; i>=sr; --i)
+        ans.push_back(matrix[i][sc]);
+        ++sc;
+
+         if(sc>ec || sr>er) return;
+
+        help(matrix, ans, er, ec, sr, sc);
+
+    }
 };
