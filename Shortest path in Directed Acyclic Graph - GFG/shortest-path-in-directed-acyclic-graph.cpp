@@ -10,23 +10,37 @@ class Solution {
   public:
      vector<int> shortestPath(int N,int M, vector<vector<int>>& edges){
         // code here
-        
+       vector<pair<int, int>> adj[N];
+        for (auto it : edges) {
+            adj[it[0]].push_back({it[1], it[2]});
+        }
+
         vector<int> dist(N, 1e9);
         dist[0] = 0;
-        
-        for(int i=0; i<N-1; ++i){
-            for(auto it:edges){
-                int u = it[0];
-                int v = it[1];
-                int eW = it[2];
-                
-                if(dist[u] != 1e9 and dist[u]+eW < dist[v]){
-                    dist[v] = dist[u]+eW;
+
+        priority_queue<pair<int, int>, vector<pair<int, int>>, greater<pair<int, int>>> pq;
+        pq.push({0, 0});
+
+        while (!pq.empty()) {
+            int dis = pq.top().first;
+            int node = pq.top().second;
+            pq.pop();
+
+            for (auto it : adj[node]) {
+                int adjNode = it.first;
+                int edgeW = it.second;
+
+                if (dis + edgeW < dist[adjNode]) {
+                    dist[adjNode] = dis + edgeW;
+                    pq.push({dist[adjNode], adjNode});
                 }
             }
         }
-        for(int i=0; i<N; ++i){
-            if(dist[i]==1e9) dist[i] = -1;
+
+        for (int i = 0; i < N; ++i) {
+            if (dist[i] == 1e9) {
+                dist[i] = -1;
+            }
         }
         return dist;
     }
