@@ -1,13 +1,26 @@
 class Solution {
 
-    private:
-    void dfs(int node, vector<int>& vis, vector<int>adj[]){
-        vis[node] = 1;
-        for(auto it:adj[node]){
-            if(!vis[it]){
-                dfs(it, vis, adj);
-            }
-        }
+    int par[100001];
+    //int siz[100001];
+
+    void init(int n){
+        for(int i=0; i<n; ++i)
+        par[i] = i;
+    }
+    
+    int findP(int n){
+        if(par[n] == n) return n;
+        return par[n] = findP(par[n]);
+    }
+
+    void mearge(int a, int b){
+        a = findP(a);
+        b = findP(b);
+
+        //if(siz[a]<siz[b]) swap(a,b);
+
+        par[b] = a;
+        //siz[a] += siz[b];
     }
 
 
@@ -16,29 +29,24 @@ public:
 
         int n = matrix.size();
 
-        vector<int>adj[n];
+        init(n);
 
         for(int i=0; i<n; ++i){
             for(int j=0; j<n; ++j){
 
-                if(matrix[i][j] and i!=j){
-                    adj[i].push_back(j);
-                    adj[j].push_back(i);       
+                if(matrix[i][j]){
+                    mearge(i,j);                        
                 }
 
             }
         }
-        vector<int>vis(n,0);
-        int count = 0;
 
+        int ans = 0;
+        
         for(int i=0; i<n; ++i){
-                     
-              if(!vis[i]){
-                  count++;
-              dfs(i, vis, adj);
-              }
-            
+            if(i==par[i]) ans++;
         }
-        return count;
+        return ans;
+      
     }
 };
