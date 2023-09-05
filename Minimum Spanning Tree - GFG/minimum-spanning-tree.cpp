@@ -6,38 +6,88 @@ using namespace std;
 class Solution
 {
 	public:
+	int par[1001];
+	int siz[1001];
+	
+	void init(int n){
+	    for(int i=0; i<n; ++i)
+	    par[i] = i, siz[i] = 1;
+	}
+	int findP(int a){
+	    if(par[a]==a) return a;
+	    return par[a] = findP(par[a]);
+	}
+	void merge(int a, int b){
+	    a = findP(a);
+	    b = findP(b);
+	    
+	    if(a==b) return;
+	    
+	    if(siz[a]<siz[b]) swap(a,b);
+	    
+	    par[b] = a;
+	    siz[a] += siz[b];
+	}
 	//Function to find sum of weights of edges of the Minimum Spanning Tree.
     int spanningTree(int V, vector<vector<int>> adj[])
     {
         // code here
+        vector<pair<int, pair<int,int>>> edges;
         
-        vector<int>vis(V,0);
+        init(V);
         
-        priority_queue<pair<int,int>,vector<pair<int,int>>, greater<pair<int,int>>> pq;
-        pq.push({0,0});
+        for(int i=0; i<V; ++i){
+            for(auto it:adj[i]){
+              int node = i;
+              int adjNode = it[0];
+              int wt = it[1];
+              
+              edges.push_back({wt, {node, adjNode}});
+            }
+        }
+        sort(edges.begin(), edges.end());
+        
         int sum = 0;
         
-        while(!pq.empty()){
-            auto it = pq.top();
-            int w = it.first;
-            int node = it.second;
-            pq.pop();
+        for(auto it:edges){
+            int wt = it.first;
+            int a = it.second.first;
+            int b = it.second.second;
             
-            if(vis[node]) continue;
-            vis[node]=1;
-            sum += w;
-            
-            for(auto it:adj[node]){
-                int adjNode = it[0];
-                int eW = it[1];
-                
-                if(!vis[adjNode])
-                pq.push({eW, adjNode});
+            if(findP(a) != findP(b)){
+                sum += wt;
+                merge(a,b);
             }
         }
         return sum;
+        
+        
     }
 };
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 //{ Driver Code Starts.
 
