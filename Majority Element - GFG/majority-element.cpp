@@ -9,36 +9,21 @@ using namespace std;
 //User function template for C++
 
 class Solution{
-  private:
-  int findCandidate(int a[], int size){
-      int majIndex = 0, cnt = 1;
-        
-        for(int i=1; i<size; ++i){
-            if(a[majIndex] == a[i]){
-                cnt++;
-            }
-            else cnt--;
-            if(cnt==0){
-                majIndex = i;
-                cnt = 1;
-            }
-        }
-        return a[majIndex];
-  }
   public:
      // Function to find majority element in the array
     // a: input array
     // size: size of input array
     int majorityElement(int a[], int size)
     {
-        int e = findCandidate(a, size);
         
-        int cnt = 0;
-        for(int i=0; i<size; ++i){
-            if(a[i]==e) cnt++;
+        // your code here
+        unordered_map<int, int> m;
+        for(int i=0; i<size; ++i) m[a[i]]++;
+        
+        for(auto it:m){
+            if(it.second>size/2) return it.first;
         }
-        return cnt>size/2 ? e : -1;
-        
+        return -1;
         
     }
 };
