@@ -20,9 +20,22 @@ class Solution{
     public:
     bool checkSubsequenceSum(int n, vector<int>& arr, int k) {
         // Code here
-        vector<vector<int>>dp(n, vector<int>(k+1, -1));
-        return f(n-1, k, arr, dp);
+        vector<vector<int>>dp(n, vector<int>(k+1, false));
+        //return f(n-1, k, arr, dp);
         
+        for(int i=0; i<n; ++i) dp[i][0] = true;
+        
+        if(arr[0]<=k) dp[0][arr[0]] = true;
+        
+        for(int i=1; i<n; ++i){
+            for(int tar = 1; tar<=k; ++tar){
+                 bool notPick = dp[i-1][tar];
+                 bool pick = tar>=arr[i] ? dp[i-1][tar-arr[i]] : false;
+                 dp[i][tar] = notPick | pick;
+            }
+            
+        }
+        return dp[n-1][k];
     }
 };
 
