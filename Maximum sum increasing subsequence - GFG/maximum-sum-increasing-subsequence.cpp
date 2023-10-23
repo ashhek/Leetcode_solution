@@ -9,10 +9,7 @@ class Solution{
 	public:
 	int maxSumIS(int arr[], int n)  
 	{  
-	
-	     vector<int> dp(n);
-
-
+	     vector<int> dp(n,0);
         for (int i = 0; i < n; i++) {
             dp[i] = arr[i];
         }
