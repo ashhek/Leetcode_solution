@@ -30,9 +30,24 @@ class Solution {
     
     int s2 = (totSum-d)/2;
     
-    vector<vector<int>> dp(n,vector<int>(s2+1,-1));
-    return f(n-1,s2,arr, dp);
+    vector<vector<int>> dp(n,vector<int>(s2+1,0));
+    //return f(n-1,s2,arr, dp);
+        if(arr[0]==0) dp[0][0] = 2;
+        else dp[0][0] = 1;
         
+        if(arr[0] != 0 and arr[0]<=s2) dp[0][arr[0]] = 1;
+        
+        for(int i=1; i<n; ++i){
+            for(int target= 0; target<=s2; ++target){
+                
+                int notPick = dp[i-1][target];
+                int pick = 0;
+                if(arr[i]<=target) pick = dp[i-1][target-arr[i]];
+                
+                dp[i][target] = (pick+notPick)%mod;
+            }
+        }
+        return dp[n-1][s2];
     }
 };
 
