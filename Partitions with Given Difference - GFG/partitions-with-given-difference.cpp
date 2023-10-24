@@ -7,11 +7,7 @@ class Solution {
     int mod = (int)(1e9+7);
   private:
   int f(int i, int target, vector<int>& arr,vector<vector<int>>& dp){
-      if(i==0){
-          if(target==0 and arr[0]==0) return 2;
-          if(target==0 or arr[0]==target) return 1;
-          return 0;
-      }
+      if(i<0) return target==0;
       if(dp[i][target] != -1) return dp[i][target];
       int notPick = f(i-1, target, arr, dp);
       int pick = 0;
@@ -30,13 +26,13 @@ class Solution {
     
     int s2 = (totSum-d)/2;
     
-    vector<vector<int>> dp(n,vector<int>(s2+1,0));
-    //return f(n-1,s2,arr, dp);
-        if(arr[0]==0) dp[0][0] = 2;
-        else dp[0][0] = 1;
+    vector<vector<int>> dp(n,vector<int>(s2+1,-1));
+    return f(n-1,s2,arr, dp);
+        // if(arr[0]==0) dp[0][0] = 2;
+        // else dp[0][0] = 1;
         
-        if(arr[0] != 0 and arr[0]<=s2) dp[0][arr[0]] = 1;
-        
+        // if(arr[0] != 0 and arr[0]<=s2) dp[0][arr[0]] = 1;
+        for(int i=0; i<n; ++i) dp[i][0] = 1;
         for(int i=1; i<n; ++i){
             for(int target= 0; target<=s2; ++target){
                 
@@ -47,7 +43,7 @@ class Solution {
                 dp[i][target] = (pick+notPick)%mod;
             }
         }
-        return dp[n-1][s2];
+        //return dp[n-1][s2];
     }
 };
 
