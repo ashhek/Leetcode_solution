@@ -38,11 +38,11 @@ public:
             for(int target=0; target<=W; ++target){
                 int notPick = prev[target];
                 int pick = 0; 
-                if(target>=wt[i]) pick = val[i] + curr[target-wt[i]];
+                if(target>=wt[i]) pick = val[i] + prev[target-wt[i]];
                 
-                curr[target] = max(pick, notPick);
+                prev[target] = max(pick, notPick);
             }
-            prev = curr;
+            //prev = curr;
         }
         return prev[W];
     }
