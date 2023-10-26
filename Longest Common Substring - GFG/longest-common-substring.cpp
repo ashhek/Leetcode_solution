@@ -10,7 +10,7 @@ class Solution{
     {
         //vector<vector<int>>dp(n+1, vector<int>(m+1, 0));
         vector<int>prev(m+1, 0), curr(m+1, 0);
-        for(int i=0; i<n; ++i) prev[0] = 0;
+        //for(int i=0; i<n; ++i) prev[0] = 0;
         //for(int i=0; i<m; ++i) dp[0][i] = 0;
         
         int ans = 0;
