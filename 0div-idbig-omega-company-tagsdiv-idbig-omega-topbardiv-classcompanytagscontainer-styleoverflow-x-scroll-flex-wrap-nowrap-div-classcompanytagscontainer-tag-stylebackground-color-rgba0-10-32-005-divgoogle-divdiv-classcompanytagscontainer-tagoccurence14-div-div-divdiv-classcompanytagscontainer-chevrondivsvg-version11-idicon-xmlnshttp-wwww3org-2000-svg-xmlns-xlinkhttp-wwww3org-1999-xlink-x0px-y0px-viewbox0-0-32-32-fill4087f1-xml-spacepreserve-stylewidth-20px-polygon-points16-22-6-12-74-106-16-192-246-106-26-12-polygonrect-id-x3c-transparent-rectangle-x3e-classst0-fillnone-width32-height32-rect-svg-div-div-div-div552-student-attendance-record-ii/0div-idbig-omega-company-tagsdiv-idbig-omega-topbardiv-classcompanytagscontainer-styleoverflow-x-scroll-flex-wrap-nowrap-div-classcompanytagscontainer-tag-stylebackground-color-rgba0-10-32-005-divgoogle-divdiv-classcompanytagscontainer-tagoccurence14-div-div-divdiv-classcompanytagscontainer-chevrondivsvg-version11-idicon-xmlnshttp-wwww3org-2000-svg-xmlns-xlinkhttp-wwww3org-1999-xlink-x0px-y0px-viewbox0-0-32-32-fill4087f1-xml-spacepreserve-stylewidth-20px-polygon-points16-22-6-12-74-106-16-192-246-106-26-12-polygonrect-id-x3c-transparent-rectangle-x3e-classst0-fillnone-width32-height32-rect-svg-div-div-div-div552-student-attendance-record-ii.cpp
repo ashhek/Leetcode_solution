@@ -1,40 +1,27 @@
 class Solution {
-    const int MOD = 1e9 + 7;
+    int mod = 1e9+7;
+    int dp[1000001][2][3];
+private:
+    int help(int n, int ab, int lt){
+        if(ab>=2 || lt>=3)
+        return 0;
 
-    int help(int i, int n, int absent, int late, vector<vector<vector<int>>>& dp) {
-        // If there are more than 1 absent days or more than 2 consecutive late days, it's invalid
-        if (absent > 1 || late > 2) return 0;
-        
-        // If reached the end of the record length, it's a valid record
-        if (i == n) return 1;
-        
-        // Check if the result is already computed
-        if (dp[i][absent][late] != -1) return dp[i][absent][late];
-        
-        // Calculate the number of valid sequences by adding P, L, A
-        int res = 0;
-        
-        // Append 'P'
-        res = (res + help(i + 1, n, absent, 0, dp)) % MOD;
-        
-        // Append 'A'
-        res = (res + help(i + 1, n, absent + 1, 0, dp)) % MOD;
-        
-        // Append 'L'
-        res = (res + help(i + 1, n, absent, late + 1, dp)) % MOD;
-        
-        // Save the result in the DP table
-        dp[i][absent][late] = res;
-        
-        return res;
-    }
+        if(n==0)
+        return 1;
 
+        if(dp[n][ab][lt] != -1)
+        return dp[n][ab][lt];
+
+        int A = help(n-1, ab+1, 0)%mod;
+        int L = help(n-1, ab, lt+1)%mod;
+        int P = help(n-1, ab, 0)%mod;
+
+        return dp[n][ab][lt] = ((A+L)%mod + P)%mod;
+    }    
 public:
     int checkRecord(int n) {
-        // DP table with dimensions [n+1][2][3]
-        vector<vector<vector<int>>> dp(n + 1, vector<vector<int>>(2, vector<int>(3, -1)));
-        
-        // Start from the first day with no absents and no lates
-        return help(0, n, 0, 0, dp);
+        memset(dp, -1, sizeof(dp));
+
+        return help(n, 0, 0);
     }
 };
