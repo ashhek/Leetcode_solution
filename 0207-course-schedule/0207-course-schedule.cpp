@@ -6,7 +6,7 @@ public:
         vector<int> adj[numCourses];
 
         for(auto it:pre){
-            adj[it[1]].push_back(it[0]);
+            adj[it[0]].push_back(it[1]);
         }
 
         for(int i=0; i<numCourses; ++i){
