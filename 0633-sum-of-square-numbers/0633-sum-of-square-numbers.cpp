@@ -1,17 +1,22 @@
 class Solution {
 public:
     bool judgeSquareSum(int c) {
-        for (int i = 2; i * i <= c; i++) {
-            int count = 0;
-            if (c % i == 0) {
-                while (c % i == 0) {
-                    count++;
-                    c /= i;
-                }
-                if (i % 4 == 3 && count % 2 != 0)
-                    return false;
+        long low = 0;
+        long high = sqrt(c);
+        
+
+        while(low<=high){
+            long target = (low*low) + (high*high);
+            if(target==c)
+            return true;
+
+            else if(target>c){
+                high--;
+            }
+            else{
+                low++;
             }
         }
-        return c % 4 != 3;
+        return false;
     }
 };
