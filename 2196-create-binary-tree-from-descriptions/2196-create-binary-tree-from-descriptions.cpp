@@ -11,48 +11,37 @@
  * };
  */
 class Solution {
-    TreeNode* dfs(int val,
-                  unordered_map<int, vector<pair<int, int>>>& parentToChild) {
-        auto node = new TreeNode(val);
-
-        if (parentToChild.contains(val)) {
-            for (auto& child_info : parentToChild[val]) {
-                int child = child_info.first;
-                int isLeft = child_info.second;
-
-                if (isLeft) {
-                    node->left = dfs(child, parentToChild);
-                } else {
-                    node->right = dfs(child, parentToChild);
-                }
-            }
-        }
-        return node;
-    }
-
 public:
     TreeNode* createBinaryTree(vector<vector<int>>& descriptions) {
-        unordered_map<int, vector<pair<int, int>>> parentToChild;
-        unordered_set<int> allNodes;
+        unordered_map<int, TreeNode*> adj;
         unordered_set<int> children;
 
-        for (auto& des : descriptions) {
-            int parent = des[0];
-            int child = des[1];
-            int isLeft = des[2];
+        for (auto& desc : descriptions) {
+            int parent = desc[0];
+            int child = desc[1];
+            int isLeft = desc[2];
 
-            parentToChild[parent].push_back({child, isLeft});
-            allNodes.insert(parent);
-            allNodes.insert(child);
+            if (!adj.contains(parent)) {
+                adj[parent] = new TreeNode(parent);
+            }
+            if (!adj.contains(child)) {
+                adj[child] = new TreeNode(child);
+            }
+
+            if (isLeft) {
+                adj[parent]->left = adj[child];
+            } else {
+                adj[parent]->right = adj[child];
+            }
             children.insert(child);
         }
-        int rootVal = 0;
-        for (int node : allNodes) {
-            if (!children.contains(node)) {
-                rootVal = node;
-                break;
-            }
+        for (auto& it : adj) {
+            auto val = it.first;
+            auto node = it.second;
+
+            if (!children.contains(val))
+                return node;
         }
-        return dfs(rootVal, parentToChild);
+        return NULL;
     }
 };
