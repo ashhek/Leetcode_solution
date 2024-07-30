@@ -1,17 +1,9 @@
 class Solution {
 public:
-    bool check(vector<int>& nums) {
-        int n = nums.size();
-        for(int i=0; i<n; ++i){
-            vector<int>temp;
-            int count = n;
-            int j = i;
-            while(count--){
-                temp.push_back(nums[(j+n)%n]);
-                j++;
-            }
-            if(is_sorted(temp.begin(), temp.end())) return true;
-        }
-        return false;
+       bool check(vector<int>& A) {
+        for (int i = 0, k = 0; i < A.size(); ++i)
+            if (A[i] > A[(i + 1) % A.size()] && ++k > 1)
+                return false;
+        return true;
     }
 };
