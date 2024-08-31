@@ -16,16 +16,16 @@ public:
         prob[start_node] = 1;
 
         while(!pq.empty()) {
-            double dis = pq.top().first;
+            double curr_prob = pq.top().first;
             int node = pq.top().second;
             pq.pop();
 
             for(auto child : adj[node]) {
                 int adjNode = child.first;
-                double edgW = child.second;
+                double adj_prob = child.second;
 
-                if(dis*edgW > prob[adjNode]) {
-                    prob[adjNode] = dis*edgW;
+                if(curr_prob * adj_prob > prob[adjNode]) {
+                    prob[adjNode] = curr_prob * adj_prob;
                     pq.push({prob[adjNode], adjNode});
                 }
             }
