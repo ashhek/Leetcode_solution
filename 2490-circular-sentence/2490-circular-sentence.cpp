@@ -8,14 +8,13 @@ public:
         while(iss >> word) {
             s.push_back(word);
         }
-        string firstWord = s[0];
-        string lastWord = s.back();
+        int n = s.size();
 
-        if(firstWord[0] != lastWord.back()) {
+        if(s[0].front() != s[n-1].back()) {
             return false;
         }
         for(int i=1; i<s.size(); ++i) {
-            if(s[i][0] != s[i-1].back()) {
+            if(s[i].front() != s[i-1].back()) {
                 return false;
             }
         }
