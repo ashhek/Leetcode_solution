@@ -1,28 +1,28 @@
 class Solution {
 public:
-    int n;
-    vector<int> dp;
-    
-    int help(int i, vector<int>& days, vector<int>& costs) {
-        if (i >= n) return 0;
-        if (dp[i] != -1) return dp[i];
-        
-        int day1 = costs[0] + help(i + 1, days, costs);
-        
-        int j = i;
-        while (j < n && days[j] < days[i] + 7) j++;
-        int day7 = costs[1] + help(j, days, costs);
-        
-        j = i;
-        while (j < n && days[j] < days[i] + 30) j++;
-        int day30 = costs[2] + help(j, days, costs);
-        
-        return dp[i] = min(day1, min(day7, day30));
+    unordered_set<int>isTravelNeeded;
+    int dp[367];
+    int help(int current, vector<int>&days, vector<int>&costs) {
+        if(current > days[days.size()-1]) return 0;
+
+        if(dp[current] != -1) return dp[current];
+
+        if(isTravelNeeded.find(current) == isTravelNeeded.end()) {
+            return help(current+1, days, costs);
+        }
+        int first = costs[0] + help(current+1, days, costs);
+        int seven = costs[1] + help(current+7, days, costs);
+        int thirty = costs[2] + help(current+30, days, costs);
+
+        return dp[current] =  min({first, seven, thirty});
     }
-    
     int mincostTickets(vector<int>& days, vector<int>& costs) {
-        n = days.size();
-        dp.resize(n, -1);
+        int n = days.size();
+        for(int day : days) {
+            isTravelNeeded.insert(day);
+        }
+        memset(dp, -1, sizeof(dp));
+
         return help(0, days, costs);
     }
 };
