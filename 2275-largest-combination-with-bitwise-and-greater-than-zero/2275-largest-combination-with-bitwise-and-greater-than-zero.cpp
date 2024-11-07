@@ -1,21 +1,17 @@
 class Solution {
 public:
     int largestCombination(vector<int>& candidates) {
-        int countPos[32] = {0};
-
-        for(int num : candidates) {
-            int pos = 0;
-            while(num > 0) {
-                if(num & 1) {
-                    countPos[pos]++;
-                }
-                pos++;
-                num = num >> 1;
-            }
-        }
         int res = 0;
+
         for(int i=0; i<32; ++i) {
-            res = max(res, countPos[i]);
+            int cnt = 0;
+
+            for(int candidate : candidates) {
+                if(candidate & (1 << i)) {
+                    cnt++;
+                }
+            }
+            res = max(res, cnt);
         }
         return res;
     }
