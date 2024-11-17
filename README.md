@@ -93,4 +93,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/ashhek/Leetcode_solution/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+## Database
+|  |
+| ------- |
+| [1390-average-selling-price](https://github.com/ashhek/Leetcode_solution/tree/master/1390-average-selling-price) |
 <!---LeetCode Topics End-->
