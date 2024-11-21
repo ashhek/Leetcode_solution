@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/ashhek/Leetcode_solution/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1755-defuse-the-bomb](https://github.com/ashhek/Leetcode_solution/tree/master/1755-defuse-the-bomb) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/ashhek/Leetcode_solution/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/ashhek/Leetcode_solution/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2449-maximum-number-of-robots-within-budget](https://github.com/ashhek/Leetcode_solution/tree/master/2449-maximum-number-of-robots-within-budget) |
 | [2478-longest-nice-subarray](https://github.com/ashhek/Leetcode_solution/tree/master/2478-longest-nice-subarray) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ashhek/Leetcode_solution/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -77,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1184-car-pooling](https://github.com/ashhek/Leetcode_solution/tree/master/1184-car-pooling) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/ashhek/Leetcode_solution/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -99,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/ashhek/Leetcode_solution/tree/master/0073-set-matrix-zeroes) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/ashhek/Leetcode_solution/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Sliding Window
 |  |
 | ------- |
