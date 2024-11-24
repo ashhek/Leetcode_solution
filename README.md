@@ -152,4 +152,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/ashhek/Leetcode_solution/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
+## Math
+|  |
+| ------- |
+| [1585-the-kth-factor-of-n](https://github.com/ashhek/Leetcode_solution/tree/master/1585-the-kth-factor-of-n) |
+## Number Theory
+|  |
+| ------- |
+| [1585-the-kth-factor-of-n](https://github.com/ashhek/Leetcode_solution/tree/master/1585-the-kth-factor-of-n) |
 <!---LeetCode Topics End-->
