@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0787-sliding-puzzle](https://github.com/ashhek/Leetcode_solution/tree/master/0787-sliding-puzzle) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/ashhek/Leetcode_solution/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/ashhek/Leetcode_solution/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/ashhek/Leetcode_solution/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/ashhek/Leetcode_solution/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Binary Tree
 |  |
@@ -53,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2478-longest-nice-subarray](https://github.com/ashhek/Leetcode_solution/tree/master/2478-longest-nice-subarray) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ashhek/Leetcode_solution/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/ashhek/Leetcode_solution/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/ashhek/Leetcode_solution/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2751-sliding-subarray-beauty](https://github.com/ashhek/Leetcode_solution/tree/master/2751-sliding-subarray-beauty) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/ashhek/Leetcode_solution/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/ashhek/Leetcode_solution/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
@@ -87,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1184-car-pooling](https://github.com/ashhek/Leetcode_solution/tree/master/1184-car-pooling) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/ashhek/Leetcode_solution/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2449-maximum-number-of-robots-within-budget](https://github.com/ashhek/Leetcode_solution/tree/master/2449-maximum-number-of-robots-within-budget) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/ashhek/Leetcode_solution/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/ashhek/Leetcode_solution/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Simulation
 |  |
@@ -122,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1972-rotating-the-box](https://github.com/ashhek/Leetcode_solution/tree/master/1972-rotating-the-box) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/ashhek/Leetcode_solution/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/ashhek/Leetcode_solution/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/ashhek/Leetcode_solution/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/ashhek/Leetcode_solution/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Sliding Window
 |  |
@@ -163,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/ashhek/Leetcode_solution/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/ashhek/Leetcode_solution/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3189-find-champion-ii](https://github.com/ashhek/Leetcode_solution/tree/master/3189-find-champion-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/ashhek/Leetcode_solution/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/ashhek/Leetcode_solution/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
@@ -178,5 +183,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/ashhek/Leetcode_solution/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/ashhek/Leetcode_solution/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/ashhek/Leetcode_solution/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 <!---LeetCode Topics End-->
