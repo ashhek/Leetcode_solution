@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 |  |
 | ------- |
+| [2201-valid-arrangement-of-pairs](https://github.com/ashhek/Leetcode_solution/tree/master/2201-valid-arrangement-of-pairs) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/ashhek/Leetcode_solution/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Breadth-First Search
 |  |
@@ -166,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Graph
 |  |
 | ------- |
+| [2201-valid-arrangement-of-pairs](https://github.com/ashhek/Leetcode_solution/tree/master/2201-valid-arrangement-of-pairs) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/ashhek/Leetcode_solution/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/ashhek/Leetcode_solution/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3189-find-champion-ii](https://github.com/ashhek/Leetcode_solution/tree/master/3189-find-champion-ii) |
@@ -185,4 +187,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/ashhek/Leetcode_solution/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/ashhek/Leetcode_solution/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/ashhek/Leetcode_solution/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [2201-valid-arrangement-of-pairs](https://github.com/ashhek/Leetcode_solution/tree/master/2201-valid-arrangement-of-pairs) |
 <!---LeetCode Topics End-->
