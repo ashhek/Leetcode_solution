@@ -159,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Database
 |  |
 | ------- |
+| [0596-classes-more-than-5-students](https://github.com/ashhek/Leetcode_solution/tree/master/0596-classes-more-than-5-students) |
 | [1161-project-employees-i](https://github.com/ashhek/Leetcode_solution/tree/master/1161-project-employees-i) |
 | [1245-user-activity-for-the-past-30-days-i](https://github.com/ashhek/Leetcode_solution/tree/master/1245-user-activity-for-the-past-30-days-i) |
 | [1390-average-selling-price](https://github.com/ashhek/Leetcode_solution/tree/master/1390-average-selling-price) |
