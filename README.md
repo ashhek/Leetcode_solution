@@ -178,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2478-longest-nice-subarray](https://github.com/ashhek/Leetcode_solution/tree/master/2478-longest-nice-subarray) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/ashhek/Leetcode_solution/tree/master/3676-smallest-number-with-all-set-bits) |
 ## String
 |  |
 | ------- |
@@ -199,6 +200,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1585-the-kth-factor-of-n](https://github.com/ashhek/Leetcode_solution/tree/master/1585-the-kth-factor-of-n) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/ashhek/Leetcode_solution/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Number Theory
 |  |
 | ------- |
