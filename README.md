@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1755-defuse-the-bomb](https://github.com/ashhek/Leetcode_solution/tree/master/1755-defuse-the-bomb) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/ashhek/Leetcode_solution/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1972-rotating-the-box](https://github.com/ashhek/Leetcode_solution/tree/master/1972-rotating-the-box) |
+| [2164-two-best-non-overlapping-events](https://github.com/ashhek/Leetcode_solution/tree/master/2164-two-best-non-overlapping-events) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/ashhek/Leetcode_solution/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2232-adding-spaces-to-a-string](https://github.com/ashhek/Leetcode_solution/tree/master/2232-adding-spaces-to-a-string) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/ashhek/Leetcode_solution/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -89,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1468-check-if-n-and-its-double-exist](https://github.com/ashhek/Leetcode_solution/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/ashhek/Leetcode_solution/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/ashhek/Leetcode_solution/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
+| [2164-two-best-non-overlapping-events](https://github.com/ashhek/Leetcode_solution/tree/master/2164-two-best-non-overlapping-events) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/ashhek/Leetcode_solution/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2449-maximum-number-of-robots-within-budget](https://github.com/ashhek/Leetcode_solution/tree/master/2449-maximum-number-of-robots-within-budget) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ashhek/Leetcode_solution/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -99,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/ashhek/Leetcode_solution/tree/master/0088-merge-sorted-array) |
 | [1184-car-pooling](https://github.com/ashhek/Leetcode_solution/tree/master/1184-car-pooling) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ashhek/Leetcode_solution/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2164-two-best-non-overlapping-events](https://github.com/ashhek/Leetcode_solution/tree/master/2164-two-best-non-overlapping-events) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ashhek/Leetcode_solution/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/ashhek/Leetcode_solution/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Heap (Priority Queue)
@@ -106,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/ashhek/Leetcode_solution/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1184-car-pooling](https://github.com/ashhek/Leetcode_solution/tree/master/1184-car-pooling) |
+| [2164-two-best-non-overlapping-events](https://github.com/ashhek/Leetcode_solution/tree/master/2164-two-best-non-overlapping-events) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/ashhek/Leetcode_solution/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2449-maximum-number-of-robots-within-budget](https://github.com/ashhek/Leetcode_solution/tree/master/2449-maximum-number-of-robots-within-budget) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/ashhek/Leetcode_solution/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
@@ -227,4 +231,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ashhek/Leetcode_solution/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+## Dynamic Programming
+|  |
+| ------- |
+| [2164-two-best-non-overlapping-events](https://github.com/ashhek/Leetcode_solution/tree/master/2164-two-best-non-overlapping-events) |
 <!---LeetCode Topics End-->
