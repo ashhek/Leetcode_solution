@@ -66,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2699-count-the-number-of-fair-pairs](https://github.com/ashhek/Leetcode_solution/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/ashhek/Leetcode_solution/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2751-sliding-subarray-beauty](https://github.com/ashhek/Leetcode_solution/tree/master/2751-sliding-subarray-beauty) |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/ashhek/Leetcode_solution/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3427-special-array-ii](https://github.com/ashhek/Leetcode_solution/tree/master/3427-special-array-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/ashhek/Leetcode_solution/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/ashhek/Leetcode_solution/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
@@ -97,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2449-maximum-number-of-robots-within-budget](https://github.com/ashhek/Leetcode_solution/tree/master/2449-maximum-number-of-robots-within-budget) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ashhek/Leetcode_solution/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/ashhek/Leetcode_solution/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/ashhek/Leetcode_solution/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/ashhek/Leetcode_solution/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3427-special-array-ii](https://github.com/ashhek/Leetcode_solution/tree/master/3427-special-array-ii) |
 ## Sorting
@@ -108,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2164-two-best-non-overlapping-events](https://github.com/ashhek/Leetcode_solution/tree/master/2164-two-best-non-overlapping-events) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ashhek/Leetcode_solution/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/ashhek/Leetcode_solution/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/ashhek/Leetcode_solution/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -167,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ashhek/Leetcode_solution/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/ashhek/Leetcode_solution/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2751-sliding-subarray-beauty](https://github.com/ashhek/Leetcode_solution/tree/master/2751-sliding-subarray-beauty) |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/ashhek/Leetcode_solution/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/ashhek/Leetcode_solution/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/ashhek/Leetcode_solution/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Queue
