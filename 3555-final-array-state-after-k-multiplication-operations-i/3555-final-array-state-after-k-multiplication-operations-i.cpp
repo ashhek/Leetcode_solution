@@ -1,15 +1,20 @@
 class Solution {
+    #define pp pair<int,int>
 public:
     vector<int> getFinalState(vector<int>& nums, int k, int multiplier) {
-        for(int i=0; i<k; ++i) {
-            int x = *min_element(nums.begin(), nums.end());
-            for(int j=0; j<nums.size(); ++j) {
-                if(nums[j]==x) {
-                    nums[j] = x*multiplier;
-                    break;
-                }
-            }
-        }
-        return nums;
+        int n = nums.size();
+       priority_queue<pp, vector<pp>, greater<pp>>pq;
+       for(int i=0; i<n; ++i) {
+        pq.push({nums[i], i});
+       }
+       while(k--) {
+        int ele = pq.top().first;
+        int ind = pq.top().second;
+        pq.pop();
+
+        nums[ind] = ele * multiplier;
+        pq.push({nums[ind], ind});
+       }
+       return nums;
     }
 };
