@@ -222,6 +222,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/ashhek/Leetcode_solution/tree/master/0175-combine-two-tables) |
+| [0182-duplicate-emails](https://github.com/ashhek/Leetcode_solution/tree/master/0182-duplicate-emails) |
 | [0596-classes-more-than-5-students](https://github.com/ashhek/Leetcode_solution/tree/master/0596-classes-more-than-5-students) |
 | [0619-biggest-single-number](https://github.com/ashhek/Leetcode_solution/tree/master/0619-biggest-single-number) |
 | [1161-project-employees-i](https://github.com/ashhek/Leetcode_solution/tree/master/1161-project-employees-i) |
