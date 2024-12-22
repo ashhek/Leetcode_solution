@@ -86,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2751-sliding-subarray-beauty](https://github.com/ashhek/Leetcode_solution/tree/master/2751-sliding-subarray-beauty) |
 | [2868-continuous-subarrays](https://github.com/ashhek/Leetcode_solution/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/ashhek/Leetcode_solution/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/ashhek/Leetcode_solution/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3427-special-array-ii](https://github.com/ashhek/Leetcode_solution/tree/master/3427-special-array-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/ashhek/Leetcode_solution/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/ashhek/Leetcode_solution/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
@@ -120,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ashhek/Leetcode_solution/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/ashhek/Leetcode_solution/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/ashhek/Leetcode_solution/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/ashhek/Leetcode_solution/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/ashhek/Leetcode_solution/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3427-special-array-ii](https://github.com/ashhek/Leetcode_solution/tree/master/3427-special-array-ii) |
 ## Sorting
@@ -149,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/ashhek/Leetcode_solution/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/ashhek/Leetcode_solution/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2868-continuous-subarrays](https://github.com/ashhek/Leetcode_solution/tree/master/2868-continuous-subarrays) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/ashhek/Leetcode_solution/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/ashhek/Leetcode_solution/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/ashhek/Leetcode_solution/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Simulation
@@ -177,6 +180,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0780-max-chunks-to-make-sorted](https://github.com/ashhek/Leetcode_solution/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/ashhek/Leetcode_solution/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/ashhek/Leetcode_solution/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/ashhek/Leetcode_solution/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -184,6 +188,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0780-max-chunks-to-make-sorted](https://github.com/ashhek/Leetcode_solution/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/ashhek/Leetcode_solution/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/ashhek/Leetcode_solution/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/ashhek/Leetcode_solution/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Matrix
 |  |
 | ------- |
@@ -318,4 +323,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2868-continuous-subarrays](https://github.com/ashhek/Leetcode_solution/tree/master/2868-continuous-subarrays) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/ashhek/Leetcode_solution/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+## Segment Tree
+|  |
+| ------- |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/ashhek/Leetcode_solution/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 <!---LeetCode Topics End-->
