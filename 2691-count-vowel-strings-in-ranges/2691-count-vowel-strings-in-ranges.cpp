@@ -11,7 +11,7 @@ public:
             prefCount[0] = 1;
         }
         for(int i=1; i<n; ++i) {
-            prefCount[i] = prefCount[i-1] + (isVowel(words[i][0]) && isVowel(words[i].back()) ? 1 : 0);
+            prefCount[i] = prefCount[i-1] + (isVowel(words[i][0]) && isVowel(words[i].back()));
         }
         vector<int>ans;
         for(auto& q : queries) {
