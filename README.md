@@ -104,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2868-continuous-subarrays](https://github.com/ashhek/Leetcode_solution/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/ashhek/Leetcode_solution/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/ashhek/Leetcode_solution/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/ashhek/Leetcode_solution/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3427-special-array-ii](https://github.com/ashhek/Leetcode_solution/tree/master/3427-special-array-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/ashhek/Leetcode_solution/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/ashhek/Leetcode_solution/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
@@ -295,6 +296,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2691-count-vowel-strings-in-ranges](https://github.com/ashhek/Leetcode_solution/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/ashhek/Leetcode_solution/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/ashhek/Leetcode_solution/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/ashhek/Leetcode_solution/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Graph
 |  |
 | ------- |
@@ -330,6 +332,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1524-string-matching-in-an-array](https://github.com/ashhek/Leetcode_solution/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/ashhek/Leetcode_solution/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/ashhek/Leetcode_solution/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Greedy
 |  |
 | ------- |
@@ -358,6 +361,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0139-word-break](https://github.com/ashhek/Leetcode_solution/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/ashhek/Leetcode_solution/tree/master/0208-implement-trie-prefix-tree) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/ashhek/Leetcode_solution/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Memoization
 |  |
 | ------- |
@@ -390,4 +394,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ashhek/Leetcode_solution/tree/master/0023-merge-k-sorted-lists) |
+## Rolling Hash
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/ashhek/Leetcode_solution/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Hash Function
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/ashhek/Leetcode_solution/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 <!---LeetCode Topics End-->
