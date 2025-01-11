@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0952-word-subsets](https://github.com/ashhek/Leetcode_solution/tree/master/0952-word-subsets) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/ashhek/Leetcode_solution/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ashhek/Leetcode_solution/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1502-construct-k-palindrome-strings](https://github.com/ashhek/Leetcode_solution/tree/master/1502-construct-k-palindrome-strings) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ashhek/Leetcode_solution/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/ashhek/Leetcode_solution/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/ashhek/Leetcode_solution/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
@@ -292,6 +293,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0208-implement-trie-prefix-tree](https://github.com/ashhek/Leetcode_solution/tree/master/0208-implement-trie-prefix-tree) |
 | [0952-word-subsets](https://github.com/ashhek/Leetcode_solution/tree/master/0952-word-subsets) |
 | [1133-last-substring-in-lexicographical-order](https://github.com/ashhek/Leetcode_solution/tree/master/1133-last-substring-in-lexicographical-order) |
+| [1502-construct-k-palindrome-strings](https://github.com/ashhek/Leetcode_solution/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/ashhek/Leetcode_solution/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/ashhek/Leetcode_solution/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/ashhek/Leetcode_solution/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -350,6 +352,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0780-max-chunks-to-make-sorted](https://github.com/ashhek/Leetcode_solution/tree/master/0780-max-chunks-to-make-sorted) |
+| [1502-construct-k-palindrome-strings](https://github.com/ashhek/Leetcode_solution/tree/master/1502-construct-k-palindrome-strings) |
 | [1917-maximum-average-pass-ratio](https://github.com/ashhek/Leetcode_solution/tree/master/1917-maximum-average-pass-ratio) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/ashhek/Leetcode_solution/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2300-construct-string-with-repeat-limit](https://github.com/ashhek/Leetcode_solution/tree/master/2300-construct-string-with-repeat-limit) |
@@ -367,6 +370,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting
 |  |
 | ------- |
+| [1502-construct-k-palindrome-strings](https://github.com/ashhek/Leetcode_solution/tree/master/1502-construct-k-palindrome-strings) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/ashhek/Leetcode_solution/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2300-construct-string-with-repeat-limit](https://github.com/ashhek/Leetcode_solution/tree/master/2300-construct-string-with-repeat-limit) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/ashhek/Leetcode_solution/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
