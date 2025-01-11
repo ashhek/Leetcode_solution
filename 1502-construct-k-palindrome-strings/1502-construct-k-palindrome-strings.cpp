@@ -4,23 +4,22 @@ public:
         int n = s.size();
         if(k == n) return true;
         if(k > n) return false;
-        map<char,int>mp;
-        for(char& ch : s) {
-            mp[ch]++;
-        }
-        int odd = 0;
-        int even = 0;
 
-        int len = 0;
-        for(auto it : mp) {
-            if(it.second % 2 == 0) {
-                len += it.second;
+        int cnt[26] = {0};
+        for(char& ch : s) {
+            cnt[ch - 'a']++;
+        }
+        
+        int maxPossibleLen = 0;
+        for(int i=0; i<26; ++i) {
+            if(cnt[i] % 2 == 0) {
+                maxPossibleLen += cnt[i];
             } else {
-                if(it.second != 1) {
-                    len += (it.second-1);
+                if(cnt[i] != 1) {
+                    maxPossibleLen += (cnt[i]-1);
                 }
             }
         }
-        return (n - len <= k);
+        return (n - maxPossibleLen <= k);
     }
 };
