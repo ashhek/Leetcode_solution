@@ -122,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/ashhek/Leetcode_solution/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3639-zero-array-transformation-i](https://github.com/ashhek/Leetcode_solution/tree/master/3639-zero-array-transformation-i) |
 | [3644-minimum-positive-sum-subarray](https://github.com/ashhek/Leetcode_solution/tree/master/3644-minimum-positive-sum-subarray) |
+| [3690-smallest-substring-with-identical-characters-i](https://github.com/ashhek/Leetcode_solution/tree/master/3690-smallest-substring-with-identical-characters-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -155,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/ashhek/Leetcode_solution/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/ashhek/Leetcode_solution/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3427-special-array-ii](https://github.com/ashhek/Leetcode_solution/tree/master/3427-special-array-ii) |
+| [3690-smallest-substring-with-identical-characters-i](https://github.com/ashhek/Leetcode_solution/tree/master/3690-smallest-substring-with-identical-characters-i) |
 ## Sorting
 |  |
 | ------- |
@@ -435,4 +437,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1501-circle-and-rectangle-overlapping](https://github.com/ashhek/Leetcode_solution/tree/master/1501-circle-and-rectangle-overlapping) |
+## Enumeration
+|  |
+| ------- |
+| [3690-smallest-substring-with-identical-characters-i](https://github.com/ashhek/Leetcode_solution/tree/master/3690-smallest-substring-with-identical-characters-i) |
 <!---LeetCode Topics End-->
