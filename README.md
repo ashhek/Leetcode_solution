@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ashhek/Leetcode_solution/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/ashhek/Leetcode_solution/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2751-sliding-subarray-beauty](https://github.com/ashhek/Leetcode_solution/tree/master/2751-sliding-subarray-beauty) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/ashhek/Leetcode_solution/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/ashhek/Leetcode_solution/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/ashhek/Leetcode_solution/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Tree
@@ -111,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2699-count-the-number-of-fair-pairs](https://github.com/ashhek/Leetcode_solution/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/ashhek/Leetcode_solution/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2751-sliding-subarray-beauty](https://github.com/ashhek/Leetcode_solution/tree/master/2751-sliding-subarray-beauty) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/ashhek/Leetcode_solution/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2868-continuous-subarrays](https://github.com/ashhek/Leetcode_solution/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/ashhek/Leetcode_solution/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/ashhek/Leetcode_solution/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
@@ -292,6 +294,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/ashhek/Leetcode_solution/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2478-longest-nice-subarray](https://github.com/ashhek/Leetcode_solution/tree/master/2478-longest-nice-subarray) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/ashhek/Leetcode_solution/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/ashhek/Leetcode_solution/tree/master/3676-smallest-number-with-all-set-bits) |
 ## String
 |  |
