@@ -319,6 +319,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2300-construct-string-with-repeat-limit](https://github.com/ashhek/Leetcode_solution/tree/master/2300-construct-string-with-repeat-limit) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/ashhek/Leetcode_solution/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2465-shifting-letters-ii](https://github.com/ashhek/Leetcode_solution/tree/master/2465-shifting-letters-ii) |
+| [2510-maximum-deletions-on-a-string](https://github.com/ashhek/Leetcode_solution/tree/master/2510-maximum-deletions-on-a-string) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/ashhek/Leetcode_solution/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/ashhek/Leetcode_solution/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/ashhek/Leetcode_solution/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
@@ -362,6 +363,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1524-string-matching-in-an-array](https://github.com/ashhek/Leetcode_solution/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/ashhek/Leetcode_solution/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/ashhek/Leetcode_solution/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2510-maximum-deletions-on-a-string](https://github.com/ashhek/Leetcode_solution/tree/master/2510-maximum-deletions-on-a-string) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/ashhek/Leetcode_solution/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Greedy
 |  |
@@ -384,6 +386,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ashhek/Leetcode_solution/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/ashhek/Leetcode_solution/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2164-two-best-non-overlapping-events](https://github.com/ashhek/Leetcode_solution/tree/master/2164-two-best-non-overlapping-events) |
+| [2510-maximum-deletions-on-a-string](https://github.com/ashhek/Leetcode_solution/tree/master/2510-maximum-deletions-on-a-string) |
 ## Counting
 |  |
 | ------- |
@@ -433,10 +436,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Rolling Hash
 |  |
 | ------- |
+| [2510-maximum-deletions-on-a-string](https://github.com/ashhek/Leetcode_solution/tree/master/2510-maximum-deletions-on-a-string) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/ashhek/Leetcode_solution/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Hash Function
 |  |
 | ------- |
+| [2510-maximum-deletions-on-a-string](https://github.com/ashhek/Leetcode_solution/tree/master/2510-maximum-deletions-on-a-string) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/ashhek/Leetcode_solution/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Geometry
 |  |
