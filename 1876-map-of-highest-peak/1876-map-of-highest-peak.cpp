@@ -5,12 +5,11 @@ public:
         int n = isWater.size();
         int m = isWater[0].size();
         vector<vector<int>>vis(n, vector<int>(m, 0));
-        vector<vector<int>>level(n, vector<int>(m, 1e9));
 
         for(int i=0; i<n; ++i) {
             for(int j=0; j<m; ++j) {
                 if(isWater[i][j] == 1) {
-                    level[i][j] = 0;
+                    isWater[i][j] = 0;
                     vis[i][j] = 1;
                     q.push({i, j});
                 }
@@ -30,11 +29,11 @@ public:
                    && !vis[nrow][ncol]) {
                     q.push({nrow, ncol});
                     vis[nrow][ncol] = 1;
-                    level[nrow][ncol] = level[row][col] + 1;
+                    isWater[nrow][ncol] = isWater[row][col] + 1;
                 }
             }
             
         }
-        return level;
+        return isWater;
     }
 };
