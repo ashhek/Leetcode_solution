@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0322-coin-change](https://github.com/ashhek/Leetcode_solution/tree/master/0322-coin-change) |
 | [0733-flood-fill](https://github.com/ashhek/Leetcode_solution/tree/master/0733-flood-fill) |
 | [0787-sliding-puzzle](https://github.com/ashhek/Leetcode_solution/tree/master/0787-sliding-puzzle) |
+| [1876-map-of-highest-peak](https://github.com/ashhek/Leetcode_solution/tree/master/1876-map-of-highest-peak) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/ashhek/Leetcode_solution/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/ashhek/Leetcode_solution/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/ashhek/Leetcode_solution/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -92,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/ashhek/Leetcode_solution/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/ashhek/Leetcode_solution/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1755-defuse-the-bomb](https://github.com/ashhek/Leetcode_solution/tree/master/1755-defuse-the-bomb) |
+| [1876-map-of-highest-peak](https://github.com/ashhek/Leetcode_solution/tree/master/1876-map-of-highest-peak) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/ashhek/Leetcode_solution/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/ashhek/Leetcode_solution/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1917-maximum-average-pass-ratio](https://github.com/ashhek/Leetcode_solution/tree/master/1917-maximum-average-pass-ratio) |
@@ -257,6 +259,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0787-sliding-puzzle](https://github.com/ashhek/Leetcode_solution/tree/master/0787-sliding-puzzle) |
 | [1041-available-captures-for-rook](https://github.com/ashhek/Leetcode_solution/tree/master/1041-available-captures-for-rook) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/ashhek/Leetcode_solution/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1876-map-of-highest-peak](https://github.com/ashhek/Leetcode_solution/tree/master/1876-map-of-highest-peak) |
 | [1972-rotating-the-box](https://github.com/ashhek/Leetcode_solution/tree/master/1972-rotating-the-box) |
 | [2145-grid-game](https://github.com/ashhek/Leetcode_solution/tree/master/2145-grid-game) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/ashhek/Leetcode_solution/tree/master/2343-count-unguarded-cells-in-the-grid) |
