@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/ashhek/Leetcode_solution/tree/master/0322-coin-change) |
+| [0542-01-matrix](https://github.com/ashhek/Leetcode_solution/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/ashhek/Leetcode_solution/tree/master/0733-flood-fill) |
 | [0787-sliding-puzzle](https://github.com/ashhek/Leetcode_solution/tree/master/0787-sliding-puzzle) |
 | [1876-map-of-highest-peak](https://github.com/ashhek/Leetcode_solution/tree/master/1876-map-of-highest-peak) |
@@ -75,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0152-maximum-product-subarray](https://github.com/ashhek/Leetcode_solution/tree/master/0152-maximum-product-subarray) |
 | [0322-coin-change](https://github.com/ashhek/Leetcode_solution/tree/master/0322-coin-change) |
 | [0503-next-greater-element-ii](https://github.com/ashhek/Leetcode_solution/tree/master/0503-next-greater-element-ii) |
+| [0542-01-matrix](https://github.com/ashhek/Leetcode_solution/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/ashhek/Leetcode_solution/tree/master/0733-flood-fill) |
 | [0780-max-chunks-to-make-sorted](https://github.com/ashhek/Leetcode_solution/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/ashhek/Leetcode_solution/tree/master/0787-sliding-puzzle) |
@@ -255,6 +257,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/ashhek/Leetcode_solution/tree/master/0073-set-matrix-zeroes) |
+| [0542-01-matrix](https://github.com/ashhek/Leetcode_solution/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/ashhek/Leetcode_solution/tree/master/0733-flood-fill) |
 | [0787-sliding-puzzle](https://github.com/ashhek/Leetcode_solution/tree/master/0787-sliding-puzzle) |
 | [1041-available-captures-for-rook](https://github.com/ashhek/Leetcode_solution/tree/master/1041-available-captures-for-rook) |
@@ -409,6 +412,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0139-word-break](https://github.com/ashhek/Leetcode_solution/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/ashhek/Leetcode_solution/tree/master/0152-maximum-product-subarray) |
 | [0322-coin-change](https://github.com/ashhek/Leetcode_solution/tree/master/0322-coin-change) |
+| [0542-01-matrix](https://github.com/ashhek/Leetcode_solution/tree/master/0542-01-matrix) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ashhek/Leetcode_solution/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/ashhek/Leetcode_solution/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2164-two-best-non-overlapping-events](https://github.com/ashhek/Leetcode_solution/tree/master/2164-two-best-non-overlapping-events) |
