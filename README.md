@@ -137,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3639-zero-array-transformation-i](https://github.com/ashhek/Leetcode_solution/tree/master/3639-zero-array-transformation-i) |
 | [3644-minimum-positive-sum-subarray](https://github.com/ashhek/Leetcode_solution/tree/master/3644-minimum-positive-sum-subarray) |
 | [3690-smallest-substring-with-identical-characters-i](https://github.com/ashhek/Leetcode_solution/tree/master/3690-smallest-substring-with-identical-characters-i) |
+| [3731-sum-of-variable-length-subarrays](https://github.com/ashhek/Leetcode_solution/tree/master/3731-sum-of-variable-length-subarrays) |
 ## Two Pointers
 |  |
 | ------- |
@@ -232,6 +233,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3427-special-array-ii](https://github.com/ashhek/Leetcode_solution/tree/master/3427-special-array-ii) |
 | [3639-zero-array-transformation-i](https://github.com/ashhek/Leetcode_solution/tree/master/3639-zero-array-transformation-i) |
 | [3644-minimum-positive-sum-subarray](https://github.com/ashhek/Leetcode_solution/tree/master/3644-minimum-positive-sum-subarray) |
+| [3731-sum-of-variable-length-subarrays](https://github.com/ashhek/Leetcode_solution/tree/master/3731-sum-of-variable-length-subarrays) |
 ## Stack
 |  |
 | ------- |
