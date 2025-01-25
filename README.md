@@ -147,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0088-merge-sorted-array](https://github.com/ashhek/Leetcode_solution/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/ashhek/Leetcode_solution/tree/master/0125-valid-palindrome) |
+| [0143-reorder-list](https://github.com/ashhek/Leetcode_solution/tree/master/0143-reorder-list) |
 | [0567-permutation-in-string](https://github.com/ashhek/Leetcode_solution/tree/master/0567-permutation-in-string) |
 | [1133-last-substring-in-lexicographical-order](https://github.com/ashhek/Leetcode_solution/tree/master/1133-last-substring-in-lexicographical-order) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ashhek/Leetcode_solution/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -244,6 +245,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/ashhek/Leetcode_solution/tree/master/0084-largest-rectangle-in-histogram) |
+| [0143-reorder-list](https://github.com/ashhek/Leetcode_solution/tree/master/0143-reorder-list) |
 | [0503-next-greater-element-ii](https://github.com/ashhek/Leetcode_solution/tree/master/0503-next-greater-element-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/ashhek/Leetcode_solution/tree/master/0780-max-chunks-to-make-sorted) |
 | [0883-car-fleet](https://github.com/ashhek/Leetcode_solution/tree/master/0883-car-fleet) |
@@ -464,6 +466,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ashhek/Leetcode_solution/tree/master/0023-merge-k-sorted-lists) |
+| [0143-reorder-list](https://github.com/ashhek/Leetcode_solution/tree/master/0143-reorder-list) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -503,4 +506,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ashhek/Leetcode_solution/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+## Recursion
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/ashhek/Leetcode_solution/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
