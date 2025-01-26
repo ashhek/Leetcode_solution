@@ -381,6 +381,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ashhek/Leetcode_solution/tree/master/0002-add-two-numbers) |
 | [1501-circle-and-rectangle-overlapping](https://github.com/ashhek/Leetcode_solution/tree/master/1501-circle-and-rectangle-overlapping) |
 | [1585-the-kth-factor-of-n](https://github.com/ashhek/Leetcode_solution/tree/master/1585-the-kth-factor-of-n) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/ashhek/Leetcode_solution/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -467,6 +468,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ashhek/Leetcode_solution/tree/master/0002-add-two-numbers) |
 | [0023-merge-k-sorted-lists](https://github.com/ashhek/Leetcode_solution/tree/master/0023-merge-k-sorted-lists) |
 | [0143-reorder-list](https://github.com/ashhek/Leetcode_solution/tree/master/0143-reorder-list) |
 ## Divide and Conquer
@@ -511,5 +513,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ashhek/Leetcode_solution/tree/master/0002-add-two-numbers) |
 | [0143-reorder-list](https://github.com/ashhek/Leetcode_solution/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
