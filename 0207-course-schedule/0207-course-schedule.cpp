@@ -1,40 +1,38 @@
 class Solution {
 public:
-    bool canFinish(int numCourses, vector<vector<int>>& pre) {
-        
-        vector<int> indegree(numCourses, 0);
-        vector<int> adj[numCourses];
+    bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {
+        int n = numCourses;
+        vector<int>adj[n];
 
-        for(auto it:pre){
-            adj[it[0]].push_back(it[1]);
+        for(auto pre : prerequisites) {
+            adj[pre[1]].push_back(pre[0]);
         }
-
-        for(int i=0; i<numCourses; ++i){
-            for(auto it:adj[i]){
-                 indegree[it]++;
+        vector<int>indegree(n, 0);
+        for(int i=0; i<n; ++i) {
+            for(auto child : adj[i]) {
+                indegree[child]++;
             }
         }
         queue<int>q;
-        for(int i=0; i<numCourses; ++i){
-            if(indegree[i]==0){
+        for(int i=0; i<n; ++i) {
+            if(indegree[i]==0) {
                 q.push(i);
             }
         }
-        vector<int> topo;
-        while(!q.empty()){
+        int cnt = 0;
+        while(!q.empty()) {
             int node = q.front();
             q.pop();
-            topo.push_back(node);
 
-            for(auto it:adj[node]){
-                indegree[it]--;
-                if(indegree[it]==0){
-                    q.push(it);
+            cnt++;
+
+            for(auto child : adj[node]){
+                indegree[child]--;
+                if(indegree[child]==0) {
+                    q.push(child);
                 }
             }
         }
-        if(topo.size()==numCourses) return true;
-        return false;
-        
+        return cnt==n;
     }
 };
