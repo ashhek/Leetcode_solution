@@ -78,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ashhek/Leetcode_solution/tree/master/0004-median-of-two-sorted-arrays) |
+| [0046-permutations](https://github.com/ashhek/Leetcode_solution/tree/master/0046-permutations) |
 | [0073-set-matrix-zeroes](https://github.com/ashhek/Leetcode_solution/tree/master/0073-set-matrix-zeroes) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ashhek/Leetcode_solution/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/ashhek/Leetcode_solution/tree/master/0088-merge-sorted-array) |
@@ -528,4 +529,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0002-add-two-numbers](https://github.com/ashhek/Leetcode_solution/tree/master/0002-add-two-numbers) |
 | [0143-reorder-list](https://github.com/ashhek/Leetcode_solution/tree/master/0143-reorder-list) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/ashhek/Leetcode_solution/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
