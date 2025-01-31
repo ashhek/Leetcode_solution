@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0684-redundant-connection](https://github.com/ashhek/Leetcode_solution/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/ashhek/Leetcode_solution/tree/master/0733-flood-fill) |
 | [0820-find-eventual-safe-states](https://github.com/ashhek/Leetcode_solution/tree/master/0820-find-eventual-safe-states) |
+| [0854-making-a-large-island](https://github.com/ashhek/Leetcode_solution/tree/master/0854-making-a-large-island) |
 | [1558-course-schedule-iv](https://github.com/ashhek/Leetcode_solution/tree/master/1558-course-schedule-iv) |
 | [2201-valid-arrangement-of-pairs](https://github.com/ashhek/Leetcode_solution/tree/master/2201-valid-arrangement-of-pairs) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/ashhek/Leetcode_solution/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
@@ -60,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0733-flood-fill](https://github.com/ashhek/Leetcode_solution/tree/master/0733-flood-fill) |
 | [0787-sliding-puzzle](https://github.com/ashhek/Leetcode_solution/tree/master/0787-sliding-puzzle) |
 | [0820-find-eventual-safe-states](https://github.com/ashhek/Leetcode_solution/tree/master/0820-find-eventual-safe-states) |
+| [0854-making-a-large-island](https://github.com/ashhek/Leetcode_solution/tree/master/0854-making-a-large-island) |
 | [1036-rotting-oranges](https://github.com/ashhek/Leetcode_solution/tree/master/1036-rotting-oranges) |
 | [1558-course-schedule-iv](https://github.com/ashhek/Leetcode_solution/tree/master/1558-course-schedule-iv) |
 | [1876-map-of-highest-peak](https://github.com/ashhek/Leetcode_solution/tree/master/1876-map-of-highest-peak) |
@@ -94,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0733-flood-fill](https://github.com/ashhek/Leetcode_solution/tree/master/0733-flood-fill) |
 | [0780-max-chunks-to-make-sorted](https://github.com/ashhek/Leetcode_solution/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/ashhek/Leetcode_solution/tree/master/0787-sliding-puzzle) |
+| [0854-making-a-large-island](https://github.com/ashhek/Leetcode_solution/tree/master/0854-making-a-large-island) |
 | [0883-car-fleet](https://github.com/ashhek/Leetcode_solution/tree/master/0883-car-fleet) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/ashhek/Leetcode_solution/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0952-word-subsets](https://github.com/ashhek/Leetcode_solution/tree/master/0952-word-subsets) |
@@ -284,6 +287,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0542-01-matrix](https://github.com/ashhek/Leetcode_solution/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/ashhek/Leetcode_solution/tree/master/0733-flood-fill) |
 | [0787-sliding-puzzle](https://github.com/ashhek/Leetcode_solution/tree/master/0787-sliding-puzzle) |
+| [0854-making-a-large-island](https://github.com/ashhek/Leetcode_solution/tree/master/0854-making-a-large-island) |
 | [1036-rotting-oranges](https://github.com/ashhek/Leetcode_solution/tree/master/1036-rotting-oranges) |
 | [1041-available-captures-for-rook](https://github.com/ashhek/Leetcode_solution/tree/master/1041-available-captures-for-rook) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/ashhek/Leetcode_solution/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -531,6 +535,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/ashhek/Leetcode_solution/tree/master/0684-redundant-connection) |
+| [0854-making-a-large-island](https://github.com/ashhek/Leetcode_solution/tree/master/0854-making-a-large-island) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/ashhek/Leetcode_solution/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/ashhek/Leetcode_solution/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ashhek/Leetcode_solution/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
