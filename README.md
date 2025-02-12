@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2300-construct-string-with-repeat-limit](https://github.com/ashhek/Leetcode_solution/tree/master/2300-construct-string-with-repeat-limit) |
 | [2448-count-number-of-bad-pairs](https://github.com/ashhek/Leetcode_solution/tree/master/2448-count-number-of-bad-pairs) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/ashhek/Leetcode_solution/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ashhek/Leetcode_solution/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ashhek/Leetcode_solution/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/ashhek/Leetcode_solution/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ashhek/Leetcode_solution/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -135,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2448-count-number-of-bad-pairs](https://github.com/ashhek/Leetcode_solution/tree/master/2448-count-number-of-bad-pairs) |
 | [2449-maximum-number-of-robots-within-budget](https://github.com/ashhek/Leetcode_solution/tree/master/2449-maximum-number-of-robots-within-budget) |
 | [2465-shifting-letters-ii](https://github.com/ashhek/Leetcode_solution/tree/master/2465-shifting-letters-ii) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ashhek/Leetcode_solution/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2478-longest-nice-subarray](https://github.com/ashhek/Leetcode_solution/tree/master/2478-longest-nice-subarray) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/ashhek/Leetcode_solution/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ashhek/Leetcode_solution/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -213,6 +215,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1184-car-pooling](https://github.com/ashhek/Leetcode_solution/tree/master/1184-car-pooling) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ashhek/Leetcode_solution/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2164-two-best-non-overlapping-events](https://github.com/ashhek/Leetcode_solution/tree/master/2164-two-best-non-overlapping-events) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ashhek/Leetcode_solution/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ashhek/Leetcode_solution/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/ashhek/Leetcode_solution/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/ashhek/Leetcode_solution/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -230,6 +233,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2300-construct-string-with-repeat-limit](https://github.com/ashhek/Leetcode_solution/tree/master/2300-construct-string-with-repeat-limit) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/ashhek/Leetcode_solution/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2449-maximum-number-of-robots-within-budget](https://github.com/ashhek/Leetcode_solution/tree/master/2449-maximum-number-of-robots-within-budget) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ashhek/Leetcode_solution/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/ashhek/Leetcode_solution/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/ashhek/Leetcode_solution/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/ashhek/Leetcode_solution/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
