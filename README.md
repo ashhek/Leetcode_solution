@@ -111,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1184-car-pooling](https://github.com/ashhek/Leetcode_solution/tree/master/1184-car-pooling) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/ashhek/Leetcode_solution/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ashhek/Leetcode_solution/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1477-product-of-the-last-k-numbers](https://github.com/ashhek/Leetcode_solution/tree/master/1477-product-of-the-last-k-numbers) |
 | [1524-string-matching-in-an-array](https://github.com/ashhek/Leetcode_solution/tree/master/1524-string-matching-in-an-array) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/ashhek/Leetcode_solution/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ashhek/Leetcode_solution/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -263,6 +264,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/ashhek/Leetcode_solution/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/ashhek/Leetcode_solution/tree/master/1046-max-consecutive-ones-iii) |
 | [1184-car-pooling](https://github.com/ashhek/Leetcode_solution/tree/master/1184-car-pooling) |
+| [1477-product-of-the-last-k-numbers](https://github.com/ashhek/Leetcode_solution/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/ashhek/Leetcode_solution/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/ashhek/Leetcode_solution/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/ashhek/Leetcode_solution/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -429,6 +431,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ashhek/Leetcode_solution/tree/master/0002-add-two-numbers) |
+| [1477-product-of-the-last-k-numbers](https://github.com/ashhek/Leetcode_solution/tree/master/1477-product-of-the-last-k-numbers) |
 | [1501-circle-and-rectangle-overlapping](https://github.com/ashhek/Leetcode_solution/tree/master/1501-circle-and-rectangle-overlapping) |
 | [1585-the-kth-factor-of-n](https://github.com/ashhek/Leetcode_solution/tree/master/1585-the-kth-factor-of-n) |
 | [2448-count-number-of-bad-pairs](https://github.com/ashhek/Leetcode_solution/tree/master/2448-count-number-of-bad-pairs) |
@@ -516,6 +519,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/ashhek/Leetcode_solution/tree/master/0208-implement-trie-prefix-tree) |
+| [1477-product-of-the-last-k-numbers](https://github.com/ashhek/Leetcode_solution/tree/master/1477-product-of-the-last-k-numbers) |
 ## Linked List
 |  |
 | ------- |
@@ -576,4 +580,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0046-permutations](https://github.com/ashhek/Leetcode_solution/tree/master/0046-permutations) |
+## Data Stream
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/ashhek/Leetcode_solution/tree/master/1477-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
