@@ -385,6 +385,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/ashhek/Leetcode_solution/tree/master/0010-regular-expression-matching) |
 | [0072-edit-distance](https://github.com/ashhek/Leetcode_solution/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/ashhek/Leetcode_solution/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/ashhek/Leetcode_solution/tree/master/0139-word-break) |
@@ -485,6 +486,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/ashhek/Leetcode_solution/tree/master/0010-regular-expression-matching) |
 | [0072-edit-distance](https://github.com/ashhek/Leetcode_solution/tree/master/0072-edit-distance) |
 | [0139-word-break](https://github.com/ashhek/Leetcode_solution/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/ashhek/Leetcode_solution/tree/master/0152-maximum-product-subarray) |
@@ -589,6 +591,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ashhek/Leetcode_solution/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/ashhek/Leetcode_solution/tree/master/0010-regular-expression-matching) |
 | [0143-reorder-list](https://github.com/ashhek/Leetcode_solution/tree/master/0143-reorder-list) |
 ## Backtracking
 |  |
