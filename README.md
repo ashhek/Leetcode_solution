@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0952-word-subsets](https://github.com/ashhek/Leetcode_solution/tree/master/0952-word-subsets) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/ashhek/Leetcode_solution/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1160-letter-tile-possibilities](https://github.com/ashhek/Leetcode_solution/tree/master/1160-letter-tile-possibilities) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ashhek/Leetcode_solution/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ashhek/Leetcode_solution/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1502-construct-k-palindrome-strings](https://github.com/ashhek/Leetcode_solution/tree/master/1502-construct-k-palindrome-strings) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ashhek/Leetcode_solution/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -38,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 |  |
 | ------- |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ashhek/Leetcode_solution/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/ashhek/Leetcode_solution/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/ashhek/Leetcode_solution/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/ashhek/Leetcode_solution/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -51,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0733-flood-fill](https://github.com/ashhek/Leetcode_solution/tree/master/0733-flood-fill) |
 | [0820-find-eventual-safe-states](https://github.com/ashhek/Leetcode_solution/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/ashhek/Leetcode_solution/tree/master/0854-making-a-large-island) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ashhek/Leetcode_solution/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/ashhek/Leetcode_solution/tree/master/1558-course-schedule-iv) |
 | [2201-valid-arrangement-of-pairs](https://github.com/ashhek/Leetcode_solution/tree/master/2201-valid-arrangement-of-pairs) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/ashhek/Leetcode_solution/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
@@ -70,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0820-find-eventual-safe-states](https://github.com/ashhek/Leetcode_solution/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/ashhek/Leetcode_solution/tree/master/0854-making-a-large-island) |
 | [1036-rotting-oranges](https://github.com/ashhek/Leetcode_solution/tree/master/1036-rotting-oranges) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ashhek/Leetcode_solution/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/ashhek/Leetcode_solution/tree/master/1558-course-schedule-iv) |
 | [1876-map-of-highest-peak](https://github.com/ashhek/Leetcode_solution/tree/master/1876-map-of-highest-peak) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/ashhek/Leetcode_solution/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -84,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Tree
 |  |
 | ------- |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ashhek/Leetcode_solution/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/ashhek/Leetcode_solution/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/ashhek/Leetcode_solution/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/ashhek/Leetcode_solution/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -540,6 +545,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/ashhek/Leetcode_solution/tree/master/0208-implement-trie-prefix-tree) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ashhek/Leetcode_solution/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/ashhek/Leetcode_solution/tree/master/1477-product-of-the-last-k-numbers) |
 ## Linked List
 |  |
