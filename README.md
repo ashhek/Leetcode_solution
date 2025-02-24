@@ -106,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0139-word-break](https://github.com/ashhek/Leetcode_solution/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/ashhek/Leetcode_solution/tree/master/0152-maximum-product-subarray) |
 | [0322-coin-change](https://github.com/ashhek/Leetcode_solution/tree/master/0322-coin-change) |
+| [0474-ones-and-zeroes](https://github.com/ashhek/Leetcode_solution/tree/master/0474-ones-and-zeroes) |
 | [0503-next-greater-element-ii](https://github.com/ashhek/Leetcode_solution/tree/master/0503-next-greater-element-ii) |
 | [0542-01-matrix](https://github.com/ashhek/Leetcode_solution/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/ashhek/Leetcode_solution/tree/master/0733-flood-fill) |
@@ -401,6 +402,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/ashhek/Leetcode_solution/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/ashhek/Leetcode_solution/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/ashhek/Leetcode_solution/tree/master/0208-implement-trie-prefix-tree) |
+| [0474-ones-and-zeroes](https://github.com/ashhek/Leetcode_solution/tree/master/0474-ones-and-zeroes) |
 | [0567-permutation-in-string](https://github.com/ashhek/Leetcode_solution/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/ashhek/Leetcode_solution/tree/master/0583-delete-operation-for-two-strings) |
 | [0886-score-of-parentheses](https://github.com/ashhek/Leetcode_solution/tree/master/0886-score-of-parentheses) |
@@ -504,6 +506,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0139-word-break](https://github.com/ashhek/Leetcode_solution/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/ashhek/Leetcode_solution/tree/master/0152-maximum-product-subarray) |
 | [0322-coin-change](https://github.com/ashhek/Leetcode_solution/tree/master/0322-coin-change) |
+| [0474-ones-and-zeroes](https://github.com/ashhek/Leetcode_solution/tree/master/0474-ones-and-zeroes) |
 | [0542-01-matrix](https://github.com/ashhek/Leetcode_solution/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/ashhek/Leetcode_solution/tree/master/0583-delete-operation-for-two-strings) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ashhek/Leetcode_solution/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
