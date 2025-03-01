@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/ashhek/Leetcode_solution/tree/master/0073-set-matrix-zeroes) |
 | [0139-word-break](https://github.com/ashhek/Leetcode_solution/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/ashhek/Leetcode_solution/tree/master/0208-implement-trie-prefix-tree) |
+| [0560-subarray-sum-equals-k](https://github.com/ashhek/Leetcode_solution/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/ashhek/Leetcode_solution/tree/master/0567-permutation-in-string) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/ashhek/Leetcode_solution/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0952-word-subsets](https://github.com/ashhek/Leetcode_solution/tree/master/0952-word-subsets) |
@@ -112,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0474-ones-and-zeroes](https://github.com/ashhek/Leetcode_solution/tree/master/0474-ones-and-zeroes) |
 | [0503-next-greater-element-ii](https://github.com/ashhek/Leetcode_solution/tree/master/0503-next-greater-element-ii) |
 | [0542-01-matrix](https://github.com/ashhek/Leetcode_solution/tree/master/0542-01-matrix) |
+| [0560-subarray-sum-equals-k](https://github.com/ashhek/Leetcode_solution/tree/master/0560-subarray-sum-equals-k) |
 | [0733-flood-fill](https://github.com/ashhek/Leetcode_solution/tree/master/0733-flood-fill) |
 | [0780-max-chunks-to-make-sorted](https://github.com/ashhek/Leetcode_solution/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/ashhek/Leetcode_solution/tree/master/0787-sliding-puzzle) |
@@ -283,6 +285,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/ashhek/Leetcode_solution/tree/master/0560-subarray-sum-equals-k) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/ashhek/Leetcode_solution/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/ashhek/Leetcode_solution/tree/master/1046-max-consecutive-ones-iii) |
 | [1184-car-pooling](https://github.com/ashhek/Leetcode_solution/tree/master/1184-car-pooling) |
