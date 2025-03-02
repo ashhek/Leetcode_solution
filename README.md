@@ -204,6 +204,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/ashhek/Leetcode_solution/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/ashhek/Leetcode_solution/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/ashhek/Leetcode_solution/tree/master/0143-reorder-list) |
+| [0295-find-median-from-data-stream](https://github.com/ashhek/Leetcode_solution/tree/master/0295-find-median-from-data-stream) |
 | [0443-string-compression](https://github.com/ashhek/Leetcode_solution/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/ashhek/Leetcode_solution/tree/master/0567-permutation-in-string) |
 | [1133-last-substring-in-lexicographical-order](https://github.com/ashhek/Leetcode_solution/tree/master/1133-last-substring-in-lexicographical-order) |
@@ -242,6 +243,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/ashhek/Leetcode_solution/tree/master/0088-merge-sorted-array) |
+| [0295-find-median-from-data-stream](https://github.com/ashhek/Leetcode_solution/tree/master/0295-find-median-from-data-stream) |
 | [0780-max-chunks-to-make-sorted](https://github.com/ashhek/Leetcode_solution/tree/master/0780-max-chunks-to-make-sorted) |
 | [0883-car-fleet](https://github.com/ashhek/Leetcode_solution/tree/master/0883-car-fleet) |
 | [1184-car-pooling](https://github.com/ashhek/Leetcode_solution/tree/master/1184-car-pooling) |
@@ -258,6 +260,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ashhek/Leetcode_solution/tree/master/0023-merge-k-sorted-lists) |
+| [0295-find-median-from-data-stream](https://github.com/ashhek/Leetcode_solution/tree/master/0295-find-median-from-data-stream) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/ashhek/Leetcode_solution/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1184-car-pooling](https://github.com/ashhek/Leetcode_solution/tree/master/1184-car-pooling) |
 | [1917-maximum-average-pass-ratio](https://github.com/ashhek/Leetcode_solution/tree/master/1917-maximum-average-pass-ratio) |
@@ -579,6 +582,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/ashhek/Leetcode_solution/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/ashhek/Leetcode_solution/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0295-find-median-from-data-stream](https://github.com/ashhek/Leetcode_solution/tree/master/0295-find-median-from-data-stream) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ashhek/Leetcode_solution/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/ashhek/Leetcode_solution/tree/master/1477-product-of-the-last-k-numbers) |
 ## Linked List
@@ -652,6 +656,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/ashhek/Leetcode_solution/tree/master/0295-find-median-from-data-stream) |
 | [1477-product-of-the-last-k-numbers](https://github.com/ashhek/Leetcode_solution/tree/master/1477-product-of-the-last-k-numbers) |
 ## Combinatorics
 |  |
