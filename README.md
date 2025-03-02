@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2685-first-completely-painted-row-or-column](https://github.com/ashhek/Leetcode_solution/tree/master/2685-first-completely-painted-row-or-column) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/ashhek/Leetcode_solution/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/ashhek/Leetcode_solution/tree/master/2696-the-number-of-beautiful-subsets) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/ashhek/Leetcode_solution/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2751-sliding-subarray-beauty](https://github.com/ashhek/Leetcode_solution/tree/master/2751-sliding-subarray-beauty) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/ashhek/Leetcode_solution/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/ashhek/Leetcode_solution/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
@@ -175,6 +176,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/ashhek/Leetcode_solution/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/ashhek/Leetcode_solution/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/ashhek/Leetcode_solution/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/ashhek/Leetcode_solution/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/ashhek/Leetcode_solution/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2751-sliding-subarray-beauty](https://github.com/ashhek/Leetcode_solution/tree/master/2751-sliding-subarray-beauty) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/ashhek/Leetcode_solution/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -216,6 +218,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2414-move-pieces-to-obtain-a-string](https://github.com/ashhek/Leetcode_solution/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2551-apply-operations-to-an-array](https://github.com/ashhek/Leetcode_solution/tree/master/2551-apply-operations-to-an-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/ashhek/Leetcode_solution/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/ashhek/Leetcode_solution/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/ashhek/Leetcode_solution/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 ## Binary Search
 |  |
