@@ -7,13 +7,13 @@ public:
     }
     
     void addNum(int num) {
-        maxHeap.push(num);
-        minHeap.push(maxHeap.top());
-        maxHeap.pop();
+        minHeap.push(num);
+        maxHeap.push(minHeap.top());
+        minHeap.pop();
 
-        while(minHeap.size() > maxHeap.size()) {
-            maxHeap.push(minHeap.top());
-            minHeap.pop();
+        if(maxHeap.size() > minHeap.size()) {
+            minHeap.push(maxHeap.top());
+            maxHeap.pop();
         }
     }
     
@@ -21,9 +21,9 @@ public:
         int n = maxHeap.size();
         int m = minHeap.size();
         if(n == m) {
-            return (maxHeap.top() + minHeap.top()) / 2.0;
+            return (maxHeap.top() + minHeap.top())/ 2.0;
         } else {
-            return n > m ? (double)maxHeap.top() : (double)minHeap.top();
+            return n > m ? maxHeap.top() : minHeap.top();
         }
     }
 };
