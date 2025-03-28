@@ -240,6 +240,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ashhek/Leetcode_solution/tree/master/0004-median-of-two-sorted-arrays) |
+| [0069-sqrtx](https://github.com/ashhek/Leetcode_solution/tree/master/0069-sqrtx) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/ashhek/Leetcode_solution/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/ashhek/Leetcode_solution/tree/master/1046-max-consecutive-ones-iii) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/ashhek/Leetcode_solution/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -516,6 +517,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ashhek/Leetcode_solution/tree/master/0002-add-two-numbers) |
+| [0069-sqrtx](https://github.com/ashhek/Leetcode_solution/tree/master/0069-sqrtx) |
 | [1477-product-of-the-last-k-numbers](https://github.com/ashhek/Leetcode_solution/tree/master/1477-product-of-the-last-k-numbers) |
 | [1501-circle-and-rectangle-overlapping](https://github.com/ashhek/Leetcode_solution/tree/master/1501-circle-and-rectangle-overlapping) |
 | [1585-the-kth-factor-of-n](https://github.com/ashhek/Leetcode_solution/tree/master/1585-the-kth-factor-of-n) |
