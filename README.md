@@ -164,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2164-two-best-non-overlapping-events](https://github.com/ashhek/Leetcode_solution/tree/master/2164-two-best-non-overlapping-events) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/ashhek/Leetcode_solution/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2232-adding-spaces-to-a-string](https://github.com/ashhek/Leetcode_solution/tree/master/2232-adding-spaces-to-a-string) |
+| [2262-solving-questions-with-brainpower](https://github.com/ashhek/Leetcode_solution/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/ashhek/Leetcode_solution/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/ashhek/Leetcode_solution/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2294-minimum-time-to-complete-trips](https://github.com/ashhek/Leetcode_solution/tree/master/2294-minimum-time-to-complete-trips) |
@@ -600,6 +601,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/ashhek/Leetcode_solution/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/ashhek/Leetcode_solution/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2164-two-best-non-overlapping-events](https://github.com/ashhek/Leetcode_solution/tree/master/2164-two-best-non-overlapping-events) |
+| [2262-solving-questions-with-brainpower](https://github.com/ashhek/Leetcode_solution/tree/master/2262-solving-questions-with-brainpower) |
 | [2510-maximum-deletions-on-a-string](https://github.com/ashhek/Leetcode_solution/tree/master/2510-maximum-deletions-on-a-string) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/ashhek/Leetcode_solution/tree/master/2696-the-number-of-beautiful-subsets) |
 ## Counting
