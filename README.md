@@ -124,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0134-gas-station](https://github.com/ashhek/Leetcode_solution/tree/master/0134-gas-station) |
 | [0139-word-break](https://github.com/ashhek/Leetcode_solution/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/ashhek/Leetcode_solution/tree/master/0152-maximum-product-subarray) |
+| [0221-maximal-square](https://github.com/ashhek/Leetcode_solution/tree/master/0221-maximal-square) |
 | [0312-burst-balloons](https://github.com/ashhek/Leetcode_solution/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/ashhek/Leetcode_solution/tree/master/0322-coin-change) |
 | [0474-ones-and-zeroes](https://github.com/ashhek/Leetcode_solution/tree/master/0474-ones-and-zeroes) |
@@ -387,6 +388,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/ashhek/Leetcode_solution/tree/master/0073-set-matrix-zeroes) |
+| [0221-maximal-square](https://github.com/ashhek/Leetcode_solution/tree/master/0221-maximal-square) |
 | [0542-01-matrix](https://github.com/ashhek/Leetcode_solution/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/ashhek/Leetcode_solution/tree/master/0733-flood-fill) |
 | [0787-sliding-puzzle](https://github.com/ashhek/Leetcode_solution/tree/master/0787-sliding-puzzle) |
@@ -596,6 +598,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0115-distinct-subsequences](https://github.com/ashhek/Leetcode_solution/tree/master/0115-distinct-subsequences) |
 | [0139-word-break](https://github.com/ashhek/Leetcode_solution/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/ashhek/Leetcode_solution/tree/master/0152-maximum-product-subarray) |
+| [0221-maximal-square](https://github.com/ashhek/Leetcode_solution/tree/master/0221-maximal-square) |
 | [0312-burst-balloons](https://github.com/ashhek/Leetcode_solution/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/ashhek/Leetcode_solution/tree/master/0322-coin-change) |
 | [0474-ones-and-zeroes](https://github.com/ashhek/Leetcode_solution/tree/master/0474-ones-and-zeroes) |
