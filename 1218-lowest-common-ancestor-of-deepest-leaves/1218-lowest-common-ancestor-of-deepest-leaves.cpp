@@ -4,33 +4,41 @@
  *     int val;
  *     TreeNode *left;
  *     TreeNode *right;
- *     TreeNode(int x) : val(x), left(NULL), right(NULL) {}
+ *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
+ *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
+ *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left),
+ * right(right) {}
  * };
  */
 class Solution {
 public:
-    TreeNode* dfs(TreeNode* A, int h, int height) {
-    if(!A)
-        return A;
-    if(h == height - 1)
-        return A;
-    TreeNode* l = dfs(A -> left, h + 1, height);
-    TreeNode* r = dfs(A -> right, h + 1, height);
-    if(l && r)
-        return A;
-    if(l)
-        return l;     
-    return r;
-}
-    
-    int findH(TreeNode* root) {
-        if(!root)
+    unordered_map<TreeNode*, int> depth;
+    int findingDepth(TreeNode* root) {
+        if (!root)
             return 0;
-        return 1 + max(findH(root -> left), findH(root -> right));
+
+        if (depth.find(root) != depth.end())
+            return depth[root];
+
+        return depth[root] =
+            1 + max(findingDepth(root->left), findingDepth(root->right));
     }
-    
     TreeNode* lcaDeepestLeaves(TreeNode* root) {
-        int height = findH(root);
-        return dfs(root, 0, height);
+        findingDepth(root);
+
+        if(!root) return nullptr;
+
+        int l = depth[root->left];
+        int r = depth[root->right];
+
+        if(l == r) {
+            return root;
+        }
+        if(l > r) {
+            return lcaDeepestLeaves(root->left);
+        }
+        else {
+            return lcaDeepestLeaves(root->right);
+        }
     }
 };
