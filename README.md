@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0768-partition-labels](https://github.com/ashhek/Leetcode_solution/tree/master/0768-partition-labels) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/ashhek/Leetcode_solution/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0952-word-subsets](https://github.com/ashhek/Leetcode_solution/tree/master/0952-word-subsets) |
+| [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/ashhek/Leetcode_solution/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/ashhek/Leetcode_solution/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1160-letter-tile-possibilities](https://github.com/ashhek/Leetcode_solution/tree/master/1160-letter-tile-possibilities) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/ashhek/Leetcode_solution/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -150,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1036-rotting-oranges](https://github.com/ashhek/Leetcode_solution/tree/master/1036-rotting-oranges) |
 | [1041-available-captures-for-rook](https://github.com/ashhek/Leetcode_solution/tree/master/1041-available-captures-for-rook) |
 | [1046-max-consecutive-ones-iii](https://github.com/ashhek/Leetcode_solution/tree/master/1046-max-consecutive-ones-iii) |
+| [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/ashhek/Leetcode_solution/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/ashhek/Leetcode_solution/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1184-car-pooling](https://github.com/ashhek/Leetcode_solution/tree/master/1184-car-pooling) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/ashhek/Leetcode_solution/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -638,6 +640,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting
 |  |
 | ------- |
+| [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/ashhek/Leetcode_solution/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1160-letter-tile-possibilities](https://github.com/ashhek/Leetcode_solution/tree/master/1160-letter-tile-possibilities) |
 | [1502-construct-k-palindrome-strings](https://github.com/ashhek/Leetcode_solution/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ashhek/Leetcode_solution/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
