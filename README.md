@@ -379,6 +379,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ashhek/Leetcode_solution/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ashhek/Leetcode_solution/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/ashhek/Leetcode_solution/tree/master/0143-reorder-list) |
 | [0503-next-greater-element-ii](https://github.com/ashhek/Leetcode_solution/tree/master/0503-next-greater-element-ii) |
@@ -488,6 +489,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/ashhek/Leetcode_solution/tree/master/0010-regular-expression-matching) |
+| [0020-valid-parentheses](https://github.com/ashhek/Leetcode_solution/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/ashhek/Leetcode_solution/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/ashhek/Leetcode_solution/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/ashhek/Leetcode_solution/tree/master/0115-distinct-subsequences) |
