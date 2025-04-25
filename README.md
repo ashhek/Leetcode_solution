@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/ashhek/Leetcode_solution/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2751-sliding-subarray-beauty](https://github.com/ashhek/Leetcode_solution/tree/master/2751-sliding-subarray-beauty) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/ashhek/Leetcode_solution/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2915-count-of-interesting-subarrays](https://github.com/ashhek/Leetcode_solution/tree/master/2915-count-of-interesting-subarrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/ashhek/Leetcode_solution/tree/master/3227-find-missing-and-repeated-values) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/ashhek/Leetcode_solution/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ashhek/Leetcode_solution/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -219,6 +220,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2792-neighboring-bitwise-xor](https://github.com/ashhek/Leetcode_solution/tree/master/2792-neighboring-bitwise-xor) |
 | [2868-continuous-subarrays](https://github.com/ashhek/Leetcode_solution/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/ashhek/Leetcode_solution/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [2915-count-of-interesting-subarrays](https://github.com/ashhek/Leetcode_solution/tree/master/2915-count-of-interesting-subarrays) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/ashhek/Leetcode_solution/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/ashhek/Leetcode_solution/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/ashhek/Leetcode_solution/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
@@ -374,6 +376,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2449-maximum-number-of-robots-within-budget](https://github.com/ashhek/Leetcode_solution/tree/master/2449-maximum-number-of-robots-within-budget) |
 | [2465-shifting-letters-ii](https://github.com/ashhek/Leetcode_solution/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/ashhek/Leetcode_solution/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2915-count-of-interesting-subarrays](https://github.com/ashhek/Leetcode_solution/tree/master/2915-count-of-interesting-subarrays) |
 | [3427-special-array-ii](https://github.com/ashhek/Leetcode_solution/tree/master/3427-special-array-ii) |
 | [3639-zero-array-transformation-i](https://github.com/ashhek/Leetcode_solution/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/ashhek/Leetcode_solution/tree/master/3643-zero-array-transformation-ii) |
