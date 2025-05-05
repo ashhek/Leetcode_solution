@@ -644,6 +644,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0474-ones-and-zeroes](https://github.com/ashhek/Leetcode_solution/tree/master/0474-ones-and-zeroes) |
 | [0542-01-matrix](https://github.com/ashhek/Leetcode_solution/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/ashhek/Leetcode_solution/tree/master/0583-delete-operation-for-two-strings) |
+| [0806-domino-and-tromino-tiling](https://github.com/ashhek/Leetcode_solution/tree/master/0806-domino-and-tromino-tiling) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/ashhek/Leetcode_solution/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ashhek/Leetcode_solution/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ashhek/Leetcode_solution/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
