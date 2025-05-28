@@ -529,6 +529,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/ashhek/Leetcode_solution/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1133-last-substring-in-lexicographical-order](https://github.com/ashhek/Leetcode_solution/tree/master/1133-last-substring-in-lexicographical-order) |
 | [1160-letter-tile-possibilities](https://github.com/ashhek/Leetcode_solution/tree/master/1160-letter-tile-possibilities) |
+| [1252-break-a-palindrome](https://github.com/ashhek/Leetcode_solution/tree/master/1252-break-a-palindrome) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/ashhek/Leetcode_solution/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1502-construct-k-palindrome-strings](https://github.com/ashhek/Leetcode_solution/tree/master/1502-construct-k-palindrome-strings) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/ashhek/Leetcode_solution/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -642,6 +643,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0768-partition-labels](https://github.com/ashhek/Leetcode_solution/tree/master/0768-partition-labels) |
 | [0780-max-chunks-to-make-sorted](https://github.com/ashhek/Leetcode_solution/tree/master/0780-max-chunks-to-make-sorted) |
 | [0797-rabbits-in-forest](https://github.com/ashhek/Leetcode_solution/tree/master/0797-rabbits-in-forest) |
+| [1252-break-a-palindrome](https://github.com/ashhek/Leetcode_solution/tree/master/1252-break-a-palindrome) |
 | [1502-construct-k-palindrome-strings](https://github.com/ashhek/Leetcode_solution/tree/master/1502-construct-k-palindrome-strings) |
 | [1917-maximum-average-pass-ratio](https://github.com/ashhek/Leetcode_solution/tree/master/1917-maximum-average-pass-ratio) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/ashhek/Leetcode_solution/tree/master/2094-remove-stones-to-minimize-the-total) |
