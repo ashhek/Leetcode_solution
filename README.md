@@ -258,6 +258,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ashhek/Leetcode_solution/tree/master/0005-longest-palindromic-substring) |
 | [0088-merge-sorted-array](https://github.com/ashhek/Leetcode_solution/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/ashhek/Leetcode_solution/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/ashhek/Leetcode_solution/tree/master/0141-linked-list-cycle) |
@@ -510,6 +511,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ashhek/Leetcode_solution/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/ashhek/Leetcode_solution/tree/master/0010-regular-expression-matching) |
 | [0020-valid-parentheses](https://github.com/ashhek/Leetcode_solution/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/ashhek/Leetcode_solution/tree/master/0049-group-anagrams) |
@@ -657,6 +659,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ashhek/Leetcode_solution/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/ashhek/Leetcode_solution/tree/master/0010-regular-expression-matching) |
 | [0072-edit-distance](https://github.com/ashhek/Leetcode_solution/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/ashhek/Leetcode_solution/tree/master/0115-distinct-subsequences) |
