@@ -10,9 +10,9 @@
  */
 class Solution {
 public:
-    ListNode* reverseList(ListNode* node, int k) {
+    ListNode* reverseList(ListNode* head, int k) {
         ListNode* prev = nullptr;
-        ListNode* curr = node;
+        ListNode* curr = head;
 
         while(curr && k--) {
             ListNode* front = curr->next;
@@ -23,14 +23,12 @@ public:
         return prev;
     }
     ListNode* reverseKGroup(ListNode* head, int k) {
-        int cnt = 0;
         ListNode* curr = head;
-
-        while(curr && cnt < k) {
+        int cnt = 0;
+        while(cnt != k && curr) {
             curr = curr->next;
             cnt++;
         }
-
         if(cnt == k) {
             ListNode* reversedHead = reverseList(head, k);
             head->next = reverseKGroup(curr, k);
