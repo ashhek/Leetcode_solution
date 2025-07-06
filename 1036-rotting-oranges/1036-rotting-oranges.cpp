@@ -3,42 +3,38 @@ public:
     int orangesRotting(vector<vector<int>>& grid) {
         int n = grid.size();
         int m = grid[0].size();
-    
-      
 
-        queue<pair<int,int>> q;
-        int fcount = 0;
-        int offset[5] = {0, 1, 0 , -1, 0};
+        queue<pair<int,int>>q;
+        int fresh = 0;
 
-        for(int i=0; i<n; ++i){
-            for(int j=0; j<m; ++j){
-                if(grid[i][j]==2) q.push({i,j});
-                else if(grid[i][j]==1) fcount++;
+        for(int i=0; i<n; ++i) {
+            for(int j=0; j<m; ++j) {
+                if(grid[i][j] == 2) q.emplace(i, j);
+                if(grid[i][j] == 1) fresh++;
             }
         }
-        if(fcount==0) return 0;
-        int ans = 0;
-        while(!q.empty()){
-            int size = q.size();
-            while(size--){
-            int x = q.front().first;
-            int y = q.front().second;
-            q.pop();
+        int time = 0;
+        int directions[4][2] = {{0, 1}, {1, 0}, {-1, 0}, {0, -1}};
+        while(!q.empty() && fresh) {
+            int x = q.size();
 
-            for(int i = 0; i<4; ++i){
-                int nrow = x + offset[i];
-                int ncol = y + offset[i+1];
+            while(x--) {
+                auto [row, col] = q.front();
+                q.pop();
 
-                if(nrow>=0 and ncol>=0 and nrow<n and ncol<m and grid[nrow][ncol]==1){
-                    grid[nrow][ncol] = 2;
-                    q.push({nrow,ncol});
-                    fcount--;
+                for(auto dir : directions) {
+                    int nrow = row + dir[0];
+                    int ncol = col + dir[1];
+
+                    if(nrow >= 0 && nrow < n && ncol >=0 && ncol < m && grid[nrow][ncol] == 1) {
+                        grid[nrow][ncol] = 2;
+                        fresh--;
+                        q.emplace(nrow, ncol);
+                    }
                 }
             }
-            }
-            ans++;
-            
+            time++;
         }
-        return (fcount==0 ? ans-1  : -1);
+        return fresh == 0 ? time : -1;
     }
 };
