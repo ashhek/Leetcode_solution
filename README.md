@@ -259,6 +259,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/ashhek/Leetcode_solution/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3690-smallest-substring-with-identical-characters-i](https://github.com/ashhek/Leetcode_solution/tree/master/3690-smallest-substring-with-identical-characters-i) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/ashhek/Leetcode_solution/tree/master/3731-sum-of-variable-length-subarrays) |
+| [3790-fruits-into-baskets-ii](https://github.com/ashhek/Leetcode_solution/tree/master/3790-fruits-into-baskets-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -311,6 +312,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3427-special-array-ii](https://github.com/ashhek/Leetcode_solution/tree/master/3427-special-array-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/ashhek/Leetcode_solution/tree/master/3643-zero-array-transformation-ii) |
 | [3690-smallest-substring-with-identical-characters-i](https://github.com/ashhek/Leetcode_solution/tree/master/3690-smallest-substring-with-identical-characters-i) |
+| [3790-fruits-into-baskets-ii](https://github.com/ashhek/Leetcode_solution/tree/master/3790-fruits-into-baskets-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -378,6 +380,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ashhek/Leetcode_solution/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/ashhek/Leetcode_solution/tree/master/3447-clear-digits) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/ashhek/Leetcode_solution/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3790-fruits-into-baskets-ii](https://github.com/ashhek/Leetcode_solution/tree/master/3790-fruits-into-baskets-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -722,6 +725,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2868-continuous-subarrays](https://github.com/ashhek/Leetcode_solution/tree/master/2868-continuous-subarrays) |
+| [3790-fruits-into-baskets-ii](https://github.com/ashhek/Leetcode_solution/tree/master/3790-fruits-into-baskets-ii) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -730,6 +734,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/ashhek/Leetcode_solution/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3790-fruits-into-baskets-ii](https://github.com/ashhek/Leetcode_solution/tree/master/3790-fruits-into-baskets-ii) |
 ## Design
 |  |
 | ------- |
