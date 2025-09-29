@@ -504,6 +504,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0619-biggest-single-number](https://github.com/ashhek/Leetcode_solution/tree/master/0619-biggest-single-number) |
 | [1161-project-employees-i](https://github.com/ashhek/Leetcode_solution/tree/master/1161-project-employees-i) |
 | [1245-user-activity-for-the-past-30-days-i](https://github.com/ashhek/Leetcode_solution/tree/master/1245-user-activity-for-the-past-30-days-i) |
+| [1317-monthly-transactions-i](https://github.com/ashhek/Leetcode_solution/tree/master/1317-monthly-transactions-i) |
 | [1390-average-selling-price](https://github.com/ashhek/Leetcode_solution/tree/master/1390-average-selling-price) |
 | [1773-percentage-of-users-attended-a-contest](https://github.com/ashhek/Leetcode_solution/tree/master/1773-percentage-of-users-attended-a-contest) |
 | [1882-the-number-of-employees-which-report-to-each-employee](https://github.com/ashhek/Leetcode_solution/tree/master/1882-the-number-of-employees-which-report-to-each-employee) |
