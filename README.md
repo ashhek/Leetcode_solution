@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1500-count-largest-group](https://github.com/ashhek/Leetcode_solution/tree/master/1500-count-largest-group) |
 | [1502-construct-k-palindrome-strings](https://github.com/ashhek/Leetcode_solution/tree/master/1502-construct-k-palindrome-strings) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ashhek/Leetcode_solution/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/ashhek/Leetcode_solution/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ashhek/Leetcode_solution/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/ashhek/Leetcode_solution/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/ashhek/Leetcode_solution/tree/master/2107-find-unique-binary-string) |
@@ -180,6 +181,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/ashhek/Leetcode_solution/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/ashhek/Leetcode_solution/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1755-defuse-the-bomb](https://github.com/ashhek/Leetcode_solution/tree/master/1755-defuse-the-bomb) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/ashhek/Leetcode_solution/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/ashhek/Leetcode_solution/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/ashhek/Leetcode_solution/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1876-map-of-highest-peak](https://github.com/ashhek/Leetcode_solution/tree/master/1876-map-of-highest-peak) |
@@ -299,6 +301,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1468-check-if-n-and-its-double-exist](https://github.com/ashhek/Leetcode_solution/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ashhek/Leetcode_solution/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/ashhek/Leetcode_solution/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/ashhek/Leetcode_solution/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/ashhek/Leetcode_solution/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2164-two-best-non-overlapping-events](https://github.com/ashhek/Leetcode_solution/tree/master/2164-two-best-non-overlapping-events) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/ashhek/Leetcode_solution/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
@@ -393,6 +396,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1477-product-of-the-last-k-numbers](https://github.com/ashhek/Leetcode_solution/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/ashhek/Leetcode_solution/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ashhek/Leetcode_solution/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/ashhek/Leetcode_solution/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/ashhek/Leetcode_solution/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/ashhek/Leetcode_solution/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2145-grid-game](https://github.com/ashhek/Leetcode_solution/tree/master/2145-grid-game) |
@@ -469,6 +473,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/ashhek/Leetcode_solution/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ashhek/Leetcode_solution/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1755-defuse-the-bomb](https://github.com/ashhek/Leetcode_solution/tree/master/1755-defuse-the-bomb) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/ashhek/Leetcode_solution/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2449-maximum-number-of-robots-within-budget](https://github.com/ashhek/Leetcode_solution/tree/master/2449-maximum-number-of-robots-within-budget) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/ashhek/Leetcode_solution/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/ashhek/Leetcode_solution/tree/master/2478-longest-nice-subarray) |
