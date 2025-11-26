@@ -210,6 +210,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/ashhek/Leetcode_solution/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2358-number-of-ways-to-split-array](https://github.com/ashhek/Leetcode_solution/tree/master/2358-number-of-ways-to-split-array) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/ashhek/Leetcode_solution/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/ashhek/Leetcode_solution/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2448-count-number-of-bad-pairs](https://github.com/ashhek/Leetcode_solution/tree/master/2448-count-number-of-bad-pairs) |
 | [2449-maximum-number-of-robots-within-budget](https://github.com/ashhek/Leetcode_solution/tree/master/2449-maximum-number-of-robots-within-budget) |
 | [2465-shifting-letters-ii](https://github.com/ashhek/Leetcode_solution/tree/master/2465-shifting-letters-ii) |
@@ -458,6 +459,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ashhek/Leetcode_solution/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/ashhek/Leetcode_solution/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/ashhek/Leetcode_solution/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/ashhek/Leetcode_solution/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2685-first-completely-painted-row-or-column](https://github.com/ashhek/Leetcode_solution/tree/master/2685-first-completely-painted-row-or-column) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/ashhek/Leetcode_solution/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/ashhek/Leetcode_solution/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -707,6 +709,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2164-two-best-non-overlapping-events](https://github.com/ashhek/Leetcode_solution/tree/master/2164-two-best-non-overlapping-events) |
 | [2262-solving-questions-with-brainpower](https://github.com/ashhek/Leetcode_solution/tree/master/2262-solving-questions-with-brainpower) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/ashhek/Leetcode_solution/tree/master/2415-count-the-number-of-ideal-arrays) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/ashhek/Leetcode_solution/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2510-maximum-deletions-on-a-string](https://github.com/ashhek/Leetcode_solution/tree/master/2510-maximum-deletions-on-a-string) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/ashhek/Leetcode_solution/tree/master/2696-the-number-of-beautiful-subsets) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/ashhek/Leetcode_solution/tree/master/3629-total-characters-in-string-after-transformations-i) |
