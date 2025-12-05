@@ -253,6 +253,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3427-special-array-ii](https://github.com/ashhek/Leetcode_solution/tree/master/3427-special-array-ii) |
 | [3429-special-array-i](https://github.com/ashhek/Leetcode_solution/tree/master/3429-special-array-i) |
 | [3430-count-days-without-meetings](https://github.com/ashhek/Leetcode_solution/tree/master/3430-count-days-without-meetings) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/ashhek/Leetcode_solution/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ashhek/Leetcode_solution/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3483-alternating-groups-ii](https://github.com/ashhek/Leetcode_solution/tree/master/3483-alternating-groups-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/ashhek/Leetcode_solution/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
@@ -412,6 +413,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2691-count-vowel-strings-in-ranges](https://github.com/ashhek/Leetcode_solution/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2915-count-of-interesting-subarrays](https://github.com/ashhek/Leetcode_solution/tree/master/2915-count-of-interesting-subarrays) |
 | [3427-special-array-ii](https://github.com/ashhek/Leetcode_solution/tree/master/3427-special-array-ii) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/ashhek/Leetcode_solution/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3639-zero-array-transformation-i](https://github.com/ashhek/Leetcode_solution/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/ashhek/Leetcode_solution/tree/master/3643-zero-array-transformation-ii) |
 | [3644-minimum-positive-sum-subarray](https://github.com/ashhek/Leetcode_solution/tree/master/3644-minimum-positive-sum-subarray) |
@@ -632,6 +634,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2696-the-number-of-beautiful-subsets](https://github.com/ashhek/Leetcode_solution/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/ashhek/Leetcode_solution/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3227-find-missing-and-repeated-values](https://github.com/ashhek/Leetcode_solution/tree/master/3227-find-missing-and-repeated-values) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/ashhek/Leetcode_solution/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3548-find-the-count-of-good-integers](https://github.com/ashhek/Leetcode_solution/tree/master/3548-find-the-count-of-good-integers) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/ashhek/Leetcode_solution/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/ashhek/Leetcode_solution/tree/master/3629-total-characters-in-string-after-transformations-i) |
