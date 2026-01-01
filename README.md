@@ -73,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/ashhek/Leetcode_solution/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/ashhek/Leetcode_solution/tree/master/0207-course-schedule) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/ashhek/Leetcode_solution/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0684-redundant-connection](https://github.com/ashhek/Leetcode_solution/tree/master/0684-redundant-connection) |
@@ -95,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Breadth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/ashhek/Leetcode_solution/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/ashhek/Leetcode_solution/tree/master/0207-course-schedule) |
 | [0322-coin-change](https://github.com/ashhek/Leetcode_solution/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/ashhek/Leetcode_solution/tree/master/0542-01-matrix) |
@@ -140,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/ashhek/Leetcode_solution/tree/master/0073-set-matrix-zeroes) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ashhek/Leetcode_solution/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/ashhek/Leetcode_solution/tree/master/0088-merge-sorted-array) |
+| [0130-surrounded-regions](https://github.com/ashhek/Leetcode_solution/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/ashhek/Leetcode_solution/tree/master/0134-gas-station) |
 | [0139-word-break](https://github.com/ashhek/Leetcode_solution/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/ashhek/Leetcode_solution/tree/master/0152-maximum-product-subarray) |
@@ -450,6 +453,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/ashhek/Leetcode_solution/tree/master/0073-set-matrix-zeroes) |
+| [0130-surrounded-regions](https://github.com/ashhek/Leetcode_solution/tree/master/0130-surrounded-regions) |
 | [0221-maximal-square](https://github.com/ashhek/Leetcode_solution/tree/master/0221-maximal-square) |
 | [0542-01-matrix](https://github.com/ashhek/Leetcode_solution/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/ashhek/Leetcode_solution/tree/master/0733-flood-fill) |
@@ -822,6 +826,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Union Find
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/ashhek/Leetcode_solution/tree/master/0130-surrounded-regions) |
 | [0684-redundant-connection](https://github.com/ashhek/Leetcode_solution/tree/master/0684-redundant-connection) |
 | [0854-making-a-large-island](https://github.com/ashhek/Leetcode_solution/tree/master/0854-making-a-large-island) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/ashhek/Leetcode_solution/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
