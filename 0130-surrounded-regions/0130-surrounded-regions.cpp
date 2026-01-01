@@ -1,46 +1,43 @@
 class Solution {
-private:
-    void dfs(int row, int col, vector<vector<char>>& board, vector<vector<int>>& vis){
-        vis[row][col] = 1;
-        int n = board.size();
-        int m = board[0].size();
-        int offset[] = {0, 1, 0, -1, 0};
-        for(int i=0; i<4; ++i){
-            int nrow = row+offset[i];
-            int ncol = col+offset[i+1];
-            if(nrow>=0 and ncol>=0 and nrow<n and ncol<m and !vis[nrow][ncol] and board[nrow][ncol]=='O'){
-                dfs(nrow, ncol, board, vis);
-            }
-        }
-    }    
 public:
+    void dfs(int i, int j, vector<vector<int>>&canSurr,vector<vector<char>>& board){
+        if(i < 0 || j < 0 || i >= board.size() || j >= board[0].size()) return;
+        if(board[i][j] == 'X' || canSurr[i][j] == 1) return;
+        canSurr[i][j] = 1;
+
+        dfs(i+1,j,canSurr,board);
+        dfs(i,j+1,canSurr,board);
+        dfs(i-1,j,canSurr,board);
+        dfs(i,j-1,canSurr,board);
+    }
     void solve(vector<vector<char>>& board) {
         int n = board.size();
         int m = board[0].size();
 
-        vector<vector<int>>vis(n, vector<int>(m,0));
+        vector<vector<int>>canSurr(n, vector<int>(m, 0));
 
+        for(int i=0; i<n; ++i){
+            if(board[i][0] == 'O' && !canSurr[i][0]){
+                dfs(i,0,canSurr,board);
+            }
+            if(board[i][m-1] == 'O' && !canSurr[i][m-1]) {
+                dfs(i,m-1,canSurr,board);
+            }
+        }
         for(int j=0; j<m; ++j){
-            if(board[0][j]=='O' and !vis[0][j]){
-                dfs(0, j, board, vis);
+            if(board[0][j] == 'O' && !canSurr[0][j]) {
+                dfs(0,j,canSurr,board);
             }
-            if(board[n-1][j]=='O' and !vis[n-1][j]){
-                dfs(n-1, j, board, vis);
+            if(board[n-1][j] == 'O' && !canSurr[n-1][j]) {
+                dfs(n-1,j,canSurr,board);
             }
         }
         for(int i=0; i<n; ++i){
-            if(board[i][0]=='O' and !vis[i][0])
-            dfs(i, 0, board, vis);
-
-            if(board[i][m-1]=='O' and !vis[i][m-1])
-            dfs(i, m-1, board, vis);
-        }
-        for(int i=0; i<n; ++i){
-            for(int j=0; j<m; ++j){
-                if(!vis[i][j] and board[i][j]=='O')
-                board[i][j] = 'X';
+            for(int j=0; j<m; ++j) {
+                if(canSurr[i][j] == 0){
+                    board[i][j] = 'X';
+                }
             }
         }
-        
     }
 };
